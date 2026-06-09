@@ -81,7 +81,13 @@ async function scrape() {
 }
 
 function buildFeed(items) {
-  const now = new Date();
+  // Derive the feed's "updated" timestamp from the newest item rather than the
+  // wall clock, so identical content produces an identical file run-to-run and
+  // the CI commit-on-change guard doesn't fire every 30 minutes.
+  const updated = items.reduce(
+    (max, it) => (it.date > max ? it.date : max),
+    items[0].date,
+  );
   const disclaimer =
     "Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). " +
     "Detta flöde är community-genererat och drivs inte av kommunen.";
@@ -92,7 +98,7 @@ function buildFeed(items) {
     id: NEWS_URL,
     link: NEWS_URL,
     language: "sv",
-    updated: now,
+    updated,
     generator: `ostrss (${REPO_URL})`,
     copyright: "Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.",
     feedLinks: {
