@@ -16,10 +16,10 @@ which publishes news as paginated HTML with no feed of its own.
 ## How it works
 
 A GitHub Actions cron job runs `src/scrape.js`, which fetches the news page,
-parses the latest items with cheerio, and regenerates `public/feed.xml` (and
+parses the latest items with cheerio, and regenerates `docs/feed.xml` (and
 `atom.xml`) using the [`feed`](https://www.npmjs.com/package/feed) library. The
 workflow commits the files only when they change, and GitHub Pages serves the
-`public/` folder. Article URLs are used as stable `<guid>`s so readers aren't
+`docs/` folder. Article URLs are used as stable `<guid>`s so readers aren't
 re-notified when unrelated parts of the page change.
 
 ## Run locally
@@ -27,7 +27,7 @@ re-notified when unrelated parts of the page change.
 ```bash
 npm ci
 node src/scrape.js
-# open public/feed.xml
+# open docs/feed.xml
 ```
 
 If the scrape returns zero items (markup changed, site down, non-200), the
@@ -37,7 +37,7 @@ feed would make some readers purge history.
 ## Validate
 
 Check the output with the [W3C Feed Validator](https://validator.w3.org/feed/).
-Paste the contents of `public/feed.xml`, or once published, validate by URL.
+Paste the contents of `docs/feed.xml`, or once published, validate by URL.
 
 ## If it breaks
 

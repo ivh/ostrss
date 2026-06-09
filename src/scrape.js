@@ -5,7 +5,9 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const PUBLIC_DIR = join(__dirname, "..", "public");
+// GitHub Pages (branch source) can only serve the repo root or /docs, so the
+// generated feed lives in docs/ rather than a public/ folder.
+const OUT_DIR = join(__dirname, "..", "docs");
 
 const SITE = "https://www.osthammar.se";
 const NEWS_URL = `${SITE}/nyheter/`;
@@ -131,9 +133,9 @@ async function main() {
   }
 
   const feed = buildFeed(items);
-  writeFileSync(join(PUBLIC_DIR, "feed.xml"), feed.rss2(), "utf-8");
-  writeFileSync(join(PUBLIC_DIR, "atom.xml"), feed.atom1(), "utf-8");
-  console.log(`Wrote ${Math.min(items.length, MAX_ITEMS)} of ${items.length} items to public/feed.xml and public/atom.xml`);
+  writeFileSync(join(OUT_DIR, "feed.xml"), feed.rss2(), "utf-8");
+  writeFileSync(join(OUT_DIR, "atom.xml"), feed.atom1(), "utf-8");
+  console.log(`Wrote ${Math.min(items.length, MAX_ITEMS)} of ${items.length} items to docs/feed.xml and docs/atom.xml`);
 }
 
 main();

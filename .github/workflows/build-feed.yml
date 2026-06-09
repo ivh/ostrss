@@ -33,10 +33,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- public/feed.xml public/atom.xml; then
+          if git diff --quiet -- docs/feed.xml docs/atom.xml; then
             echo "No feed changes; nothing to commit."
           else
-            git add public/feed.xml public/atom.xml
+            git add docs/feed.xml docs/atom.xml
             git commit -m "update feed"
             git push
           fi
