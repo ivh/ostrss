@@ -1,0 +1,42 @@
+name: build-feed
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # every 30 min; GitHub cron is best-effort and may be delayed
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # If the scrape yields zero items / non-200, this exits non-zero:
+      # the run goes red and nothing below runs, leaving feed.xml intact.
+      - run: node src/scrape.js
+
+      - name: Commit feed if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- public/feed.xml public/atom.xml; then
+            echo "No feed changes; nothing to commit."
+          else
+            git add public/feed.xml public/atom.xml
+            git commit -m "update feed"
+            git push
+          fi

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.osthammar.se/nyheter/</id>
+    <title>Östhammars kommun – Nyheter</title>
+    <updated>2026-06-09T04:39:31.898Z</updated>
+    <generator>ostrss (https://github.com/ivh/ostrss)</generator>
+    <author>
+        <name>ostrss (inofficiellt)</name>
+        <uri>https://github.com/ivh/ostrss</uri>
+    </author>
+    <link rel="alternate" href="https://www.osthammar.se/nyheter/"/>
+    <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
+    <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
+    <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[VA-programmet möjliggör för mer dricksvatten]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/va-programmet-mojliggor-for-mer-dricksvatten/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/va-programmet-mojliggor-for-mer-dricksvatten/"/>
+        <updated>2026-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I Öregrund pågår ett pilotprojekt för att pröva lämpligaste metoden för avsaltning av havsvatten. Uppförandet av ett avsaltningsverk innebär en ökad tillgång till dricksvatten som även kommer att räcka till flera tätorter.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ansök om riksfärdtjänstresor inför sommaren 2026]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/kom-ihag-att-ansoka-om-riksfardtjanst-i-tid/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/kom-ihag-att-ansoka-om-riksfardtjanst-i-tid/"/>
+        <updated>2026-06-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ansökan om riksfärdtjänstresa som önskas genomföras under period 3 juli till 3 augusti måste ha inkommit senast onsdag 10 juni.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophämtning under midsommarveckan]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/sophamtning-under-midsommarveckan/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/sophamtning-under-midsommarveckan/"/>
+        <updated>2026-06-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alla som har sophämtning under midsommarveckan, alltså vecka 25 (15-19 juni), behöver ställa fram tunnorna redan till måndag morgon och låta dem stå framme tills de tömts.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ny lag om skyddsrum och skyddade utrymmen]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/ny-lag-om-skyddsrum-och-skyddade-utrymmen/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/ny-lag-om-skyddsrum-och-skyddade-utrymmen/"/>
+        <updated>2026-06-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Den 1 juni 2026 träder en ny lag om skyddsrum och skyddade utrymmen i kraft. Lagen ska stärka skyddet av civilbefolkningen vid krig och väpnat angrepp och innebär förändringar för främst kommuner och fastighetsägare samt att ett system för skyddade utrymmen införs.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Förändringar i alkohollagen: Slopat matkrav för serveringstillstånd från 1 juni]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/forandringar-i-alkohollagen-slopat-matkrav-for-serveringstillstand-fran-1-juni/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/forandringar-i-alkohollagen-slopat-matkrav-for-serveringstillstand-fran-1-juni/"/>
+        <updated>2026-06-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Den 7 maj röstade riksdagen igenom en lagändring som slopar matkravet för serveringstillstånd. Från och med 1 juni behövs varken kök eller matservering för att få servera alkohol]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uppmärksamma Tobaksfria dagen den 31 maj!]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/uppmarksamma-tobaksfria-dagen-den-31-maj/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/uppmarksamma-tobaksfria-dagen-den-31-maj/"/>
+        <updated>2026-05-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nikotinindustrin har förändrats, i dag marknadsförs och säljs vitt snus och e-cigaretter inte bara som en produkt utan som en modern livsstil. Det vill vi ändra på nu, med Tobaksfria dagen och med en gemensam kraftsamling i länet för att höja kunskapen om riskerna med de nya trendiga nikotinprodukterna.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurs i HLR och större hotbild inför sommarens evenemang]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/kurs-i-hlr-och-storre-hotbild-infor-sommarens-evenemang/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/kurs-i-hlr-och-storre-hotbild-infor-sommarens-evenemang/"/>
+        <updated>2026-05-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tisdagen den 19 maj hölls en kurs i HLR och större hotbild på Kulturhuset Storbrunn. Utbildningen genomfördes som en del av det pågående samverkansarbetet mellan Östhammars kommun och Öregrunds racerklubb inför sommarens större evenemang, Roslagsloppet och Båtveckan. Kursledare var Pernilla Ingvarsson, ordförande i Öregrunds racerklubb.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beredskapsfrågor i fokus på serviceboendet]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/beredskapsfragor-i-fokus-pa-serviceboendet/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/beredskapsfragor-i-fokus-pa-serviceboendet/"/>
+        <updated>2026-05-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I veckan som gick fick boende på serviceboendet Repslagargatan i Östhammar tillfälle att prata beredskapsfrågor med Marcus Nåsby, beredskapssamordnare. På agendan stod bland annat att prata om hur man kan förbereda sig ifall det skulle bli strömlöst och varm korv.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Färdtjänstresor under midsommarhelgen 2026]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/fardtjanstresor-under-midsommarhelgen-2026/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/fardtjanstresor-under-midsommarhelgen-2026/"/>
+        <updated>2026-05-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Har du färdtjänsttillstånd och planerar att resa under midsommarhelgen? Tänk på att många vill resa samtidigt, vilket kan påverka tillgängligheten.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Långsiktiga mål och nya riktlinjer från länets krissamverkansråd]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/langsiktiga-mal-och-nya-riktlinjer-fran-lanets-krissamverkansrad/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/langsiktiga-mal-och-nya-riktlinjer-fran-lanets-krissamverkansrad/"/>
+        <updated>2026-05-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Krissamverkansrådet i Uppsala län har beslutat om långsiktiga mål och nya riktlinjer för samverkan och ledning inom krisberedskap och totalförsvar.]]></summary>
+    </entry>
+</feed>

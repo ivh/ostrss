@@ -1,0 +1,14 @@
+{
+  "name": "ostrss",
+  "version": "1.0.0",
+  "description": "Unofficial RSS feed for Östhammars kommun news (osthammar.se)",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "build": "node src/scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "feed": "^4.2.2"
+  }
+}
