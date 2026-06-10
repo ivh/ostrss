@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-06-08T12:00:00.000Z</updated>
+    <updated>2026-06-10T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,20 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Lokala säkerhetsnämnden håller öppet möte i Öregrund]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-haller-oppet-mote-i-oregrund/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-haller-oppet-mote-i-oregrund/"/>
+        <updated>2026-06-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Är du också nyfiken på vad som händer vid Forsmarkshalvön? Välkommen till societetshuset i Öregrund den 25 juni, klockan 18, för att få information från de kärntekniska verksamheterna Forsmarks kraftgrupp AB och Svensk kärnbränslehantering AB.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Våra öppettider i sommar]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/vara-oppettider-i-sommar/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/vara-oppettider-i-sommar/"/>
+        <updated>2026-06-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Här hittar du information om öppettider och annat som kan vara bra att känna till under sommaren.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VA-programmet möjliggör för mer dricksvatten]]></title>
         <id>https://www.osthammar.se/nyheter/2026/va-programmet-mojliggor-for-mer-dricksvatten/</id>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/beredskapsfragor-i-fokus-pa-serviceboendet/"/>
         <updated>2026-05-26T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[I veckan som gick fick boende på serviceboendet Repslagargatan i Östhammar tillfälle att prata beredskapsfrågor med Marcus Nåsby, beredskapssamordnare. På agendan stod bland annat att prata om hur man kan förbereda sig ifall det skulle bli strömlöst och varm korv.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Färdtjänstresor under midsommarhelgen 2026]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/fardtjanstresor-under-midsommarhelgen-2026/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/fardtjanstresor-under-midsommarhelgen-2026/"/>
-        <updated>2026-05-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Har du färdtjänsttillstånd och planerar att resa under midsommarhelgen? Tänk på att många vill resa samtidigt, vilket kan påverka tillgängligheten.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Långsiktiga mål och nya riktlinjer från länets krissamverkansråd]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/langsiktiga-mal-och-nya-riktlinjer-fran-lanets-krissamverkansrad/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/langsiktiga-mal-och-nya-riktlinjer-fran-lanets-krissamverkansrad/"/>
-        <updated>2026-05-22T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Krissamverkansrådet i Uppsala län har beslutat om långsiktiga mål och nya riktlinjer för samverkan och ledning inom krisberedskap och totalförsvar.]]></summary>
     </entry>
 </feed>
