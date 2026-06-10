@@ -13,6 +13,20 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Åtgärder för dricksvattenförsörjning vid höjd beredskap]]></title>
+        <id>https://www.osthammar.se/nyheter/atgarder-for-dricksvattenforsorjning-vid-hojd-beredskap/</id>
+        <link href="https://www.osthammar.se/nyheter/atgarder-for-dricksvattenforsorjning-vid-hojd-beredskap/"/>
+        <updated>2026-06-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Livsmedelsverket ger Östhammars kommun investeringsstöd med 1 000 000 kr för år 2026, och lika mycket för år 2027. Pengarna ska användas för utbildning, övning och investering i utrustning för nödvattenförsörjning, investering i reservvattenförsörjning samt en förstudie och investering i beredskapsbrunnar.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grilla säkert i sommar]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/grilla-sakert-i-sommar/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/grilla-sakert-i-sommar/"/>
+        <updated>2026-06-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nu är det sommarlov och med sommarkänslan kommer ofta lusten att grilla – hemma i trädgården eller vid en grillplats i skogen. Brandförsvaret ger tips om hur du som gillar att grilla kan göra det på ett säkert sätt i sommar.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lokala säkerhetsnämnden håller öppet möte i Öregrund]]></title>
         <id>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-haller-oppet-mote-i-oregrund/</id>
         <link href="https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-haller-oppet-mote-i-oregrund/"/>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/uppmarksamma-tobaksfria-dagen-den-31-maj/"/>
         <updated>2026-05-31T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Nikotinindustrin har förändrats, i dag marknadsförs och säljs vitt snus och e-cigaretter inte bara som en produkt utan som en modern livsstil. Det vill vi ändra på nu, med Tobaksfria dagen och med en gemensam kraftsamling i länet för att höja kunskapen om riskerna med de nya trendiga nikotinprodukterna.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurs i HLR och större hotbild inför sommarens evenemang]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/kurs-i-hlr-och-storre-hotbild-infor-sommarens-evenemang/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/kurs-i-hlr-och-storre-hotbild-infor-sommarens-evenemang/"/>
-        <updated>2026-05-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tisdagen den 19 maj hölls en kurs i HLR och större hotbild på Kulturhuset Storbrunn. Utbildningen genomfördes som en del av det pågående samverkansarbetet mellan Östhammars kommun och Öregrunds racerklubb inför sommarens större evenemang, Roslagsloppet och Båtveckan. Kursledare var Pernilla Ingvarsson, ordförande i Öregrunds racerklubb.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beredskapsfrågor i fokus på serviceboendet]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/beredskapsfragor-i-fokus-pa-serviceboendet/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/beredskapsfragor-i-fokus-pa-serviceboendet/"/>
-        <updated>2026-05-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I veckan som gick fick boende på serviceboendet Repslagargatan i Östhammar tillfälle att prata beredskapsfrågor med Marcus Nåsby, beredskapssamordnare. På agendan stod bland annat att prata om hur man kan förbereda sig ifall det skulle bli strömlöst och varm korv.]]></summary>
     </entry>
 </feed>
