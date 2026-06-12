@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 10 Jun 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[22,5 miljoner till nya satsningar i kommunen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/225-miljoner-till-nya-satsningar-i-kommunen/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/225-miljoner-till-nya-satsningar-i-kommunen/</guid>
+            <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Styrgruppen för mervärdesavtalet har beslutat om fyra nya mervärdesinsatser i kommunen, vilka innebär att olika projekt som utvecklar kommunen nu tillförs medel.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Efterlysning – din röst i vårt nya ungdomsråd]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/efterlysning--din-rost-i-vart-nya-ungdomsrad/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/efterlysning--din-rost-i-vart-nya-ungdomsrad/</guid>
+            <pubDate>Fri, 12 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vi söker ett antal ungdomar, 15–18 år, till ett nytt ungdomsråd som ska hjälpa oss att hamna rätt med planerade aktiviteter för unga. Kom och träffa oss på Kulturhuset Storbrunn i Östhammar den 24 juni kl 11:00 eller den 25 juni kl 16:00, för att få veta mer om uppdraget. Vi bjuder på fika!]]></description>
+        </item>
         <item>
             <title><![CDATA[Åtgärder för dricksvattenförsörjning vid höjd beredskap]]></title>
             <link>https://www.osthammar.se/nyheter/atgarder-for-dricksvattenforsorjning-vid-hojd-beredskap/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/ny-lag-om-skyddsrum-och-skyddade-utrymmen/</guid>
             <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Den 1 juni 2026 träder en ny lag om skyddsrum och skyddade utrymmen i kraft. Lagen ska stärka skyddet av civilbefolkningen vid krig och väpnat angrepp och innebär förändringar för främst kommuner och fastighetsägare samt att ett system för skyddade utrymmen införs.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Förändringar i alkohollagen: Slopat matkrav för serveringstillstånd från 1 juni]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/forandringar-i-alkohollagen-slopat-matkrav-for-serveringstillstand-fran-1-juni/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/forandringar-i-alkohollagen-slopat-matkrav-for-serveringstillstand-fran-1-juni/</guid>
-            <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Den 7 maj röstade riksdagen igenom en lagändring som slopar matkravet för serveringstillstånd. Från och med 1 juni behövs varken kök eller matservering för att få servera alkohol]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Uppmärksamma Tobaksfria dagen den 31 maj!]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/uppmarksamma-tobaksfria-dagen-den-31-maj/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/uppmarksamma-tobaksfria-dagen-den-31-maj/</guid>
-            <pubDate>Sun, 31 May 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Nikotinindustrin har förändrats, i dag marknadsförs och säljs vitt snus och e-cigaretter inte bara som en produkt utan som en modern livsstil. Det vill vi ändra på nu, med Tobaksfria dagen och med en gemensam kraftsamling i länet för att höja kunskapen om riskerna med de nya trendiga nikotinprodukterna.]]></description>
         </item>
     </channel>
 </rss>

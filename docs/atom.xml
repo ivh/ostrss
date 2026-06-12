@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-06-10T12:00:00.000Z</updated>
+    <updated>2026-06-12T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,20 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[22,5 miljoner till nya satsningar i kommunen]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/225-miljoner-till-nya-satsningar-i-kommunen/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/225-miljoner-till-nya-satsningar-i-kommunen/"/>
+        <updated>2026-06-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Styrgruppen för mervärdesavtalet har beslutat om fyra nya mervärdesinsatser i kommunen, vilka innebär att olika projekt som utvecklar kommunen nu tillförs medel.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efterlysning – din röst i vårt nya ungdomsråd]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/efterlysning--din-rost-i-vart-nya-ungdomsrad/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/efterlysning--din-rost-i-vart-nya-ungdomsrad/"/>
+        <updated>2026-06-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vi söker ett antal ungdomar, 15–18 år, till ett nytt ungdomsråd som ska hjälpa oss att hamna rätt med planerade aktiviteter för unga. Kom och träffa oss på Kulturhuset Storbrunn i Östhammar den 24 juni kl 11:00 eller den 25 juni kl 16:00, för att få veta mer om uppdraget. Vi bjuder på fika!]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Åtgärder för dricksvattenförsörjning vid höjd beredskap]]></title>
         <id>https://www.osthammar.se/nyheter/atgarder-for-dricksvattenforsorjning-vid-hojd-beredskap/</id>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/ny-lag-om-skyddsrum-och-skyddade-utrymmen/"/>
         <updated>2026-06-01T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Den 1 juni 2026 träder en ny lag om skyddsrum och skyddade utrymmen i kraft. Lagen ska stärka skyddet av civilbefolkningen vid krig och väpnat angrepp och innebär förändringar för främst kommuner och fastighetsägare samt att ett system för skyddade utrymmen införs.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Förändringar i alkohollagen: Slopat matkrav för serveringstillstånd från 1 juni]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/forandringar-i-alkohollagen-slopat-matkrav-for-serveringstillstand-fran-1-juni/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/forandringar-i-alkohollagen-slopat-matkrav-for-serveringstillstand-fran-1-juni/"/>
-        <updated>2026-06-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Den 7 maj röstade riksdagen igenom en lagändring som slopar matkravet för serveringstillstånd. Från och med 1 juni behövs varken kök eller matservering för att få servera alkohol]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uppmärksamma Tobaksfria dagen den 31 maj!]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/uppmarksamma-tobaksfria-dagen-den-31-maj/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/uppmarksamma-tobaksfria-dagen-den-31-maj/"/>
-        <updated>2026-05-31T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nikotinindustrin har förändrats, i dag marknadsförs och säljs vitt snus och e-cigaretter inte bara som en produkt utan som en modern livsstil. Det vill vi ändra på nu, med Tobaksfria dagen och med en gemensam kraftsamling i länet för att höja kunskapen om riskerna med de nya trendiga nikotinprodukterna.]]></summary>
     </entry>
 </feed>
