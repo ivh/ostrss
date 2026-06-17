@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 16 Jun 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nu ska tillgänglighetsguiden uppdateras]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/nu-ska-tillganglighetsguiden-uppdateras/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/nu-ska-tillganglighetsguiden-uppdateras/</guid>
+            <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Under sommaren ska lokaler i Östhammars kommuns offentliga miljöer inventeras beträffande tillgängligheten. Resultatet kommer att utgöra underlag för en uppdatering av den befintliga tillgänglighetsguiden – ett resultat av vårt samarbete med HSO, en del av Funktionsrätt Sverige.]]></description>
+        </item>
         <item>
             <title><![CDATA[Vill du spara energi? Nu utvecklar vi rådgivningen i kommunen]]></title>
             <link>https://www.osthammar.se/nyheter/2026/energi--och-klimatradgivningen-mote/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/va-programmet-mojliggor-for-mer-dricksvatten/</guid>
             <pubDate>Mon, 08 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[I Öregrund pågår ett pilotprojekt för att pröva lämpligaste metoden för avsaltning av havsvatten. Uppförandet av ett avsaltningsverk innebär en ökad tillgång till dricksvatten som även kommer att räcka till flera tätorter.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ansök om riksfärdtjänstresor inför sommaren 2026]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/kom-ihag-att-ansoka-om-riksfardtjanst-i-tid/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/kom-ihag-att-ansoka-om-riksfardtjanst-i-tid/</guid>
-            <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Ansökan om riksfärdtjänstresa som önskas genomföras under period 3 juli till 3 augusti måste ha inkommit senast onsdag 10 juni.]]></description>
         </item>
     </channel>
 </rss>

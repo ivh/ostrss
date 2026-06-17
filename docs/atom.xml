@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-06-16T12:00:00.000Z</updated>
+    <updated>2026-06-17T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Nu ska tillgänglighetsguiden uppdateras]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/nu-ska-tillganglighetsguiden-uppdateras/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/nu-ska-tillganglighetsguiden-uppdateras/"/>
+        <updated>2026-06-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Under sommaren ska lokaler i Östhammars kommuns offentliga miljöer inventeras beträffande tillgängligheten. Resultatet kommer att utgöra underlag för en uppdatering av den befintliga tillgänglighetsguiden – ett resultat av vårt samarbete med HSO, en del av Funktionsrätt Sverige.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vill du spara energi? Nu utvecklar vi rådgivningen i kommunen]]></title>
         <id>https://www.osthammar.se/nyheter/2026/energi--och-klimatradgivningen-mote/</id>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/va-programmet-mojliggor-for-mer-dricksvatten/"/>
         <updated>2026-06-08T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[I Öregrund pågår ett pilotprojekt för att pröva lämpligaste metoden för avsaltning av havsvatten. Uppförandet av ett avsaltningsverk innebär en ökad tillgång till dricksvatten som även kommer att räcka till flera tätorter.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ansök om riksfärdtjänstresor inför sommaren 2026]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/kom-ihag-att-ansoka-om-riksfardtjanst-i-tid/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/kom-ihag-att-ansoka-om-riksfardtjanst-i-tid/"/>
-        <updated>2026-06-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ansökan om riksfärdtjänstresa som önskas genomföras under period 3 juli till 3 augusti måste ha inkommit senast onsdag 10 juni.]]></summary>
     </entry>
 </feed>
