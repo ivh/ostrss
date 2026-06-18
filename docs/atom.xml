@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-06-17T12:00:00.000Z</updated>
+    <updated>2026-06-18T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Samverkan och åtgärder för ökad trygghet i sommar]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/samverkan-och-atgarder-for-okad-trygghet-i-sommar/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/samverkan-och-atgarder-for-okad-trygghet-i-sommar/"/>
+        <updated>2026-06-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just nu pågår ett brett, samordnat och förebyggande arbete för att skapa en trygg och säker miljö för både invånare och besökare i Östhammars kommun. Ordningsvakter, ökad vuxennärvaro och kamerabevakning är exempel på åtgärder som vi vidtar i sommar.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nu ska tillgänglighetsguiden uppdateras]]></title>
         <id>https://www.osthammar.se/nyheter/2026/nu-ska-tillganglighetsguiden-uppdateras/</id>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/vara-oppettider-i-sommar/"/>
         <updated>2026-06-10T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Här hittar du information om öppettider och annat som kan vara bra att känna till under sommaren.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VA-programmet möjliggör för mer dricksvatten]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/va-programmet-mojliggor-for-mer-dricksvatten/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/va-programmet-mojliggor-for-mer-dricksvatten/"/>
-        <updated>2026-06-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I Öregrund pågår ett pilotprojekt för att pröva lämpligaste metoden för avsaltning av havsvatten. Uppförandet av ett avsaltningsverk innebär en ökad tillgång till dricksvatten som även kommer att räcka till flera tätorter.]]></summary>
     </entry>
 </feed>
