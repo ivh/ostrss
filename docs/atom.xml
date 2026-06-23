@@ -13,6 +13,13 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Årets reduktionsfiske är avslutat]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/arets-reduktionsfiske-ar-avslutat/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/arets-reduktionsfiske-ar-avslutat/"/>
+        <updated>2026-06-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Veckan före midsommar plockade våra fiskare ihop utrustningen för året i Östhammarsfjärden och Granfjärden.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[265 400 kr till ledunderhåll]]></title>
         <id>https://www.osthammar.se/nyheter/2026/265-400-kr-till-ledunderhall/</id>
         <link href="https://www.osthammar.se/nyheter/2026/265-400-kr-till-ledunderhall/"/>
@@ -67,12 +74,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/225-miljoner-till-nya-satsningar-i-kommunen/"/>
         <updated>2026-06-12T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Styrgruppen för mervärdesavtalet har beslutat om fyra nya mervärdesinsatser i kommunen, vilka innebär att olika projekt som utvecklar kommunen nu tillförs medel.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efterlysning – din röst i vårt nya ungdomsråd]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/efterlysning--din-rost-i-vart-nya-ungdomsrad/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/efterlysning--din-rost-i-vart-nya-ungdomsrad/"/>
-        <updated>2026-06-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vi söker ett antal ungdomar, 15–18 år, till ett nytt ungdomsråd som ska hjälpa oss att hamna rätt med planerade aktiviteter för unga. Kom och träffa oss på Kulturhuset Storbrunn i Östhammar den 24 juni kl 11:00 eller den 25 juni kl 16:00, för att få veta mer om uppdraget. Vi bjuder på fika!]]></summary>
     </entry>
 </feed>
