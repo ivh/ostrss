@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 18 Jun 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prata med nära och kära om bedrägerier]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/prata-med-nara-och-kara-om-bedragerier/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/prata-med-nara-och-kara-om-bedragerier/</guid>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Just nu skickar vi ut vykort till dig som är 65 år eller äldre, med enkla råd om hur du kan skydda dig mot bedrägerier.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sommartips för dina avfallskärl]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/sommartips-for-dina-avfallskarl/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/sommartips-for-dina-avfallskarl/</guid>
+            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Under sommaren kan värmen göra att problem med lukt och fluglarver uppstår i det bruna kärlet för matavfall. Flugor söker sig gärna till fuktigt matavfall där de kan lägga sina ägg. När temperaturen stiger utvecklas äggen snabbt till larver. Larverna är ofarliga, men många tycker att de är obehagliga.]]></description>
+        </item>
         <item>
             <title><![CDATA[Samverkan och åtgärder för ökad trygghet i sommar]]></title>
             <link>https://www.osthammar.se/nyheter/2026/samverkan-och-atgarder-for-okad-trygghet-i-sommar/</link>
@@ -58,20 +72,6 @@
             <guid>https://www.osthammar.se/nyheter/atgarder-for-dricksvattenforsorjning-vid-hojd-beredskap/</guid>
             <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Livsmedelsverket ger Östhammars kommun investeringsstöd med 1 000 000 kr för år 2026, och lika mycket för år 2027. Pengarna ska användas för utbildning, övning och investering i utrustning för nödvattenförsörjning, investering i reservvattenförsörjning samt en förstudie och investering i beredskapsbrunnar.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Grilla säkert i sommar]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/grilla-sakert-i-sommar/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/grilla-sakert-i-sommar/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Nu är det sommarlov och med sommarkänslan kommer ofta lusten att grilla – hemma i trädgården eller vid en grillplats i skogen. Brandförsvaret ger tips om hur du som gillar att grilla kan göra det på ett säkert sätt i sommar.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lokala säkerhetsnämnden håller öppet möte i Öregrund]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-haller-oppet-mote-i-oregrund/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-haller-oppet-mote-i-oregrund/</guid>
-            <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Är du också nyfiken på vad som händer vid Forsmarkshalvön? Välkommen till societetshuset i Öregrund den 25 juni, klockan 18, för att få information från de kärntekniska verksamheterna Forsmarks kraftgrupp AB och Svensk kärnbränslehantering AB.]]></description>
         </item>
     </channel>
 </rss>
