@@ -13,6 +13,13 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[265 400 kr till ledunderhåll]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/265-400-kr-till-ledunderhall/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/265-400-kr-till-ledunderhall/"/>
+        <updated>2026-06-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Upplandsstiftelsen och Östhammars kommun har framgångsrikt genomfört en projektansökan till Länsstyrelsen Uppsala län och vidare fått beviljat 265 000 kr för ledunderhåll i Östhammar, Knivsta och Tierps kommuner.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Prata med nära och kära om bedrägerier]]></title>
         <id>https://www.osthammar.se/nyheter/2026/prata-med-nara-och-kara-om-bedragerier/</id>
         <link href="https://www.osthammar.se/nyheter/2026/prata-med-nara-och-kara-om-bedragerier/"/>
@@ -67,12 +74,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/efterlysning--din-rost-i-vart-nya-ungdomsrad/"/>
         <updated>2026-06-12T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Vi söker ett antal ungdomar, 15–18 år, till ett nytt ungdomsråd som ska hjälpa oss att hamna rätt med planerade aktiviteter för unga. Kom och träffa oss på Kulturhuset Storbrunn i Östhammar den 24 juni kl 11:00 eller den 25 juni kl 16:00, för att få veta mer om uppdraget. Vi bjuder på fika!]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Åtgärder för dricksvattenförsörjning vid höjd beredskap]]></title>
-        <id>https://www.osthammar.se/nyheter/atgarder-for-dricksvattenforsorjning-vid-hojd-beredskap/</id>
-        <link href="https://www.osthammar.se/nyheter/atgarder-for-dricksvattenforsorjning-vid-hojd-beredskap/"/>
-        <updated>2026-06-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Livsmedelsverket ger Östhammars kommun investeringsstöd med 1 000 000 kr för år 2026, och lika mycket för år 2027. Pengarna ska användas för utbildning, övning och investering i utrustning för nödvattenförsörjning, investering i reservvattenförsörjning samt en förstudie och investering i beredskapsbrunnar.]]></summary>
     </entry>
 </feed>
