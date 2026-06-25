@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-06-23T12:00:00.000Z</updated>
+    <updated>2026-06-25T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Grävstopp]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/gravstopp/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/gravstopp/"/>
+        <updated>2026-06-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mellan vecka 25 och 33 råder grävstopp i centrala delar av Östhammar och Öregrund. Undantag gäller för pågående arbeten samt akuta åtgärder.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Årets reduktionsfiske är avslutat]]></title>
         <id>https://www.osthammar.se/nyheter/2026/arets-reduktionsfiske-ar-avslutat/</id>
@@ -67,12 +74,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/ordningsvakter-for-vuxennarvaro-och-okad-trygghet/"/>
         <updated>2026-06-15T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Vi fortsätter vår satsning på kommunala ordningsvakter för att öka tryggheten och förebygga brott. Den här veckan kommer de att vara synliga i Öregrund på fredag och lördag. Med det önskar vi er alla en glad midsommar!]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22,5 miljoner till nya satsningar i kommunen]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/225-miljoner-till-nya-satsningar-i-kommunen/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/225-miljoner-till-nya-satsningar-i-kommunen/"/>
-        <updated>2026-06-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Styrgruppen för mervärdesavtalet har beslutat om fyra nya mervärdesinsatser i kommunen, vilka innebär att olika projekt som utvecklar kommunen nu tillförs medel.]]></summary>
     </entry>
 </feed>
