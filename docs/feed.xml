@@ -11,6 +11,27 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Vill du vara en del av kommunens beredskapslager för drivmedel?]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/vill-du-vara-en-del-av-kommunens-beredskapslager-for-drivmedel/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/vill-du-vara-en-del-av-kommunens-beredskapslager-for-drivmedel/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Ett samarbete med det lokala näringslivet kring ett beredskapslager för drivmedel är en önskad modell för oss att kunna utveckla vår försörjningsberedskap. Nu behöver vi få kontakt med dig som vill vara med och bidra till att lokalsamhället ska fungera i en krissituation.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[God samverkan och vuxennärvaro under midsommarhelgen i Öregrund]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/god-samverkan-och-vuxennarvaro-under-midsommarhelgen-i-oregrund2/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/god-samverkan-och-vuxennarvaro-under-midsommarhelgen-i-oregrund2/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Många ungdomar firade midsommar i Öregrund där fältverksamheten, nattvandrare och flera samverkansaktörer fanns på plats. Kvällen blev lugn utan större incidenter, och de vuxnas närvaro bidrog till positiva möten och ett gott stöd för ungdomarna.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Workshop om lekplatser först ut i nyetablerat samarbete]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/workshop-om-lekplatser-forst-ut-i-nyetablerat-samarbete/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/workshop-om-lekplatser-forst-ut-i-nyetablerat-samarbete/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Nyligen hölls en workshop om funktionshinderanpassade lekplatser. Deltog gjorde representanter från den ukrainska kommunen Pivdennoukrainsk, som vill veta mer om vårt arbete med detta.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Politiker får utbildning om hot och våld]]></title>
             <link>https://www.osthammar.se/nyheter/2026/politiker-far-utbildning-om-hot-och-vald/</link>
             <guid>https://www.osthammar.se/nyheter/2026/politiker-far-utbildning-om-hot-och-vald/</guid>
@@ -58,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/prata-med-nara-och-kara-om-bedragerier/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Just nu skickar vi ut vykort till dig som är 65 år eller äldre, med enkla råd om hur du kan skydda dig mot bedrägerier.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sommartips för dina avfallskärl]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/sommartips-for-dina-avfallskarl/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/sommartips-for-dina-avfallskarl/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Under sommaren kan värmen göra att problem med lukt och fluglarver uppstår i det bruna kärlet för matavfall. Flugor söker sig gärna till fuktigt matavfall där de kan lägga sina ägg. När temperaturen stiger utvecklas äggen snabbt till larver. Larverna är ofarliga, men många tycker att de är obehagliga.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Samverkan och åtgärder för ökad trygghet i sommar]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/samverkan-och-atgarder-for-okad-trygghet-i-sommar/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/samverkan-och-atgarder-for-okad-trygghet-i-sommar/</guid>
-            <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Just nu pågår ett brett, samordnat och förebyggande arbete för att skapa en trygg och säker miljö för både invånare och besökare i Östhammars kommun. Ordningsvakter, ökad vuxennärvaro och kamerabevakning är exempel på åtgärder som vi vidtar i sommar.]]></description>
         </item>
     </channel>
 </rss>
