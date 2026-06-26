@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 25 Jun 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Värmen är här – se till att få i dig tillräckligt mycket vätska!]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/varmen-ar-har-se-till-att-fa-i-dig-tillrackligt-mycket-vatska/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/varmen-ar-har-se-till-att-fa-i-dig-tillrackligt-mycket-vatska/</guid>
+            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Det är härligt med sol och värme men sommarens höga temperaturer kan vara påfrestande på hälsan. Äldre, kroniskt sjuka, personer med funktionsnedsättning, små barn och gravida är riskgrupper för värmens negativa effekter som exempelvis uttorkning och värmeslag. Så påminn pappa, mormor eller din granne att få i sig lite extra vätska och ha en härlig sommar!]]></description>
+        </item>
         <item>
             <title><![CDATA[Grävstopp]]></title>
             <link>https://www.osthammar.se/nyheter/2026/gravstopp/</link>
@@ -65,13 +72,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/energi--och-klimatradgivningen-mote/</guid>
             <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Förra veckan hade vi ett framgångsrikt möte med vår samarbetspartner Energi- och klimatrådgivningen för att diskutera hur vi kan utveckla och förbättra vårt samarbete för privatpersoner, föreningar och företag i kommunen.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ordningsvakter för vuxennärvaro och ökad trygghet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/ordningsvakter-for-vuxennarvaro-och-okad-trygghet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/ordningsvakter-for-vuxennarvaro-och-okad-trygghet/</guid>
-            <pubDate>Mon, 15 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Vi fortsätter vår satsning på kommunala ordningsvakter för att öka tryggheten och förebygga brott. Den här veckan kommer de att vara synliga i Öregrund på fredag och lördag. Med det önskar vi er alla en glad midsommar!]]></description>
         </item>
     </channel>
 </rss>
