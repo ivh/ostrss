@@ -13,6 +13,20 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Politiker får utbildning om hot och våld]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/politiker-far-utbildning-om-hot-och-vald/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/politiker-far-utbildning-om-hot-och-vald/"/>
+        <updated>2026-06-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Det är viktigt för oss att våra förtroendevalda ska kunna utföra sitt arbete på ett tryggt och säkert sätt. Därför har vi nyligen genomfört en utbildning om hot och våld. Sedan den 1 juli 2025 har kommuner och regioner ett tydligare ansvar för trygghet och säkerhet för förtroendevalda.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lokala säkerhetsnämnden höll öppet möte i Öregrund]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-holl-oppet-mote-i-oregrund/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-holl-oppet-mote-i-oregrund/"/>
+        <updated>2026-06-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[En gång om året bjuder Lokala säkerhetsnämnden in allmänheten till öppet möte. I år hölls det i societetshuset i Öregrund, torsdagen den 25 juni. Mötet lockade ett 20-tal besökare som kom för att lyssna på informationen från Forsmarks Kraftgrupp AB, Svensk Kärnbränslehantering AB (SKB), kommunens slutförvarsorganisation med flera.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Värmen är här – se till att få i dig tillräckligt mycket vätska!]]></title>
         <id>https://www.osthammar.se/nyheter/2026/varmen-ar-har-se-till-att-fa-i-dig-tillrackligt-mycket-vatska/</id>
         <link href="https://www.osthammar.se/nyheter/2026/varmen-ar-har-se-till-att-fa-i-dig-tillrackligt-mycket-vatska/"/>
@@ -60,19 +74,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/samverkan-och-atgarder-for-okad-trygghet-i-sommar/"/>
         <updated>2026-06-18T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Just nu pågår ett brett, samordnat och förebyggande arbete för att skapa en trygg och säker miljö för både invånare och besökare i Östhammars kommun. Ordningsvakter, ökad vuxennärvaro och kamerabevakning är exempel på åtgärder som vi vidtar i sommar.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nu ska tillgänglighetsguiden uppdateras]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/nu-ska-tillganglighetsguiden-uppdateras/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/nu-ska-tillganglighetsguiden-uppdateras/"/>
-        <updated>2026-06-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Under sommaren ska lokaler i Östhammars kommuns offentliga miljöer inventeras beträffande tillgängligheten. Resultatet kommer att utgöra underlag för en uppdatering av den befintliga tillgänglighetsguiden – ett resultat av vårt samarbete med HSO, en del av Funktionsrätt Sverige.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vill du spara energi? Nu utvecklar vi rådgivningen i kommunen]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/energi--och-klimatradgivningen-mote/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/energi--och-klimatradgivningen-mote/"/>
-        <updated>2026-06-16T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Förra veckan hade vi ett framgångsrikt möte med vår samarbetspartner Energi- och klimatrådgivningen för att diskutera hur vi kan utveckla och förbättra vårt samarbete för privatpersoner, föreningar och företag i kommunen.]]></summary>
     </entry>
 </feed>
