@@ -13,6 +13,13 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Kartor och mättjänster under semesterperioden]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/kartor-och-mattjanster-under-semesterperioden/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/kartor-och-mattjanster-under-semesterperioden/"/>
+        <updated>2026-06-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tjänsten för beställning av kartor och mättjänster är stängd under vecka 29–30. Om du behöver hjälp under denna period hänvisar vi till externa aktörer. Om du endast behöver en enklare översiktskarta kan du när som helst använda vår digitala tjänst Kommunkartan Östhammar.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kommunen satsar på tryggare och mer hållbara sätt att ta sig fram i tätorterna]]></title>
         <id>https://www.osthammar.se/nyheter/2026/forbattrad-lokal-tillganglighet-och-mikromobilitet/</id>
         <link href="https://www.osthammar.se/nyheter/2026/forbattrad-lokal-tillganglighet-och-mikromobilitet/"/>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/arets-reduktionsfiske-ar-avslutat/"/>
         <updated>2026-06-23T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Veckan före midsommar plockade våra fiskare ihop utrustningen för året i Östhammarsfjärden och Granfjärden.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[265 400 kr till ledunderhåll]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/265-400-kr-till-ledunderhall/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/265-400-kr-till-ledunderhall/"/>
-        <updated>2026-06-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Upplandsstiftelsen och Östhammars kommun har framgångsrikt genomfört en projektansökan till Länsstyrelsen Uppsala län och vidare fått beviljat 265 000 kr för ledunderhåll i Östhammar, Knivsta och Tierps kommuner.]]></summary>
     </entry>
 </feed>
