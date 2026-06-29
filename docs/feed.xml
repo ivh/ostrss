@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Fri, 26 Jun 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kommunen satsar på tryggare och mer hållbara sätt att ta sig fram i tätorterna]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/forbattrad-lokal-tillganglighet-och-mikromobilitet/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/forbattrad-lokal-tillganglighet-och-mikromobilitet/</guid>
+            <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Östhammars kommun planerar en stor satsning för att förbättra lokal tillgänglighet och mikromobilitet – alltså gång, cykel och andra lättare trafikslag samt kollektivtrafik – med särskilt fokus på att göra det enklare och säkrare för barn, ungdomar och äldre att röra sig i kommunens tätorter.]]></description>
+        </item>
         <item>
             <title><![CDATA[Vill du vara en del av kommunens beredskapslager för drivmedel?]]></title>
             <link>https://www.osthammar.se/nyheter/2026/vill-du-vara-en-del-av-kommunens-beredskapslager-for-drivmedel/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/265-400-kr-till-ledunderhall/</guid>
             <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Upplandsstiftelsen och Östhammars kommun har framgångsrikt genomfört en projektansökan till Länsstyrelsen Uppsala län och vidare fått beviljat 265 000 kr för ledunderhåll i Östhammar, Knivsta och Tierps kommuner.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Prata med nära och kära om bedrägerier]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/prata-med-nara-och-kara-om-bedragerier/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/prata-med-nara-och-kara-om-bedragerier/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Just nu skickar vi ut vykort till dig som är 65 år eller äldre, med enkla råd om hur du kan skydda dig mot bedrägerier.]]></description>
         </item>
     </channel>
 </rss>
