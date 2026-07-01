@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Mon, 29 Jun 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Älvsnäs badförening tar hand om badplatsen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/alvsnas-badforening-tar-hand-om-badplatsen/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/alvsnas-badforening-tar-hand-om-badplatsen/</guid>
+            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[När kommunen lämnade över skötseln av Älvsnäsbadet valde engagerade grannar att ta saken i egna händer. I dag ansvarar den nystartade Älvsnäs badförening för badplatsen.]]></description>
+        </item>
         <item>
             <title><![CDATA[Kartor och mättjänster under semesterperioden]]></title>
             <link>https://www.osthammar.se/nyheter/2026/kartor-och-mattjanster-under-semesterperioden/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/gravstopp/</guid>
             <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Mellan vecka 25 och 33 råder grävstopp i centrala delar av Östhammar och Öregrund. Undantag gäller för pågående arbeten samt akuta åtgärder.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Årets reduktionsfiske är avslutat]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/arets-reduktionsfiske-ar-avslutat/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/arets-reduktionsfiske-ar-avslutat/</guid>
-            <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Veckan före midsommar plockade våra fiskare ihop utrustningen för året i Östhammarsfjärden och Granfjärden.]]></description>
         </item>
     </channel>
 </rss>
