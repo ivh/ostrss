@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Fri, 03 Jul 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tipsa oss om intressanta platser!]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/tipsa-oss-om-intressanta-platser/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/tipsa-oss-om-intressanta-platser/</guid>
+            <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vi vill ha ditt tips om intressanta platser runt om i Östhammars kommun!Det kan vara en fin utsiktsplats, en bra grillplats, ett naturskönt område eller andra platser som du tycker är värda att dela med andra.]]></description>
+        </item>
         <item>
             <title><![CDATA[Viktigt om nya betalningsregler för läkemedelsköp på apotek]]></title>
             <link>https://www.osthammar.se/nyheter/2026/viktigt-om-nya-betalningsregler-for-lakemedelskop-pa-apotek/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-holl-oppet-mote-i-oregrund/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[En gång om året bjuder Lokala säkerhetsnämnden in allmänheten till öppet möte. I år hölls det i societetshuset i Öregrund, torsdagen den 25 juni. Mötet lockade ett 20-tal besökare som kom för att lyssna på informationen från Forsmarks Kraftgrupp AB, Svensk Kärnbränslehantering AB (SKB), kommunens slutförvarsorganisation med flera.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Värmen är här – se till att få i dig tillräckligt mycket vätska!]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/varmen-ar-har-se-till-att-fa-i-dig-tillrackligt-mycket-vatska/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/varmen-ar-har-se-till-att-fa-i-dig-tillrackligt-mycket-vatska/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Det är härligt med sol och värme men sommarens höga temperaturer kan vara påfrestande på hälsan. Äldre, kroniskt sjuka, personer med funktionsnedsättning, små barn och gravida är riskgrupper för värmens negativa effekter som exempelvis uttorkning och värmeslag. Så påminn pappa, mormor eller din granne att få i sig lite extra vätska och ha en härlig sommar!]]></description>
         </item>
     </channel>
 </rss>
