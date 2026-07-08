@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 07 Jul 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ett kallbadhus kan bli verklighet med stöd av Ortslyftet]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/ett-kallbadhus-kan-bli-verklighet-med-stod-av-ortslyftet/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/ett-kallbadhus-kan-bli-verklighet-med-stod-av-ortslyftet/</guid>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Ett nytt kallbadhus planeras i Västerhamn i centrala Öregrund. Med stöd från kommunens bidrag Ortslyftet och stort lokalt engagemang vill föreningen skapa en plats för kallbad och gemenskap året runt.]]></description>
+        </item>
         <item>
             <title><![CDATA[Tipsa oss om intressanta platser!]]></title>
             <link>https://www.osthammar.se/nyheter/2026/tipsa-oss-om-intressanta-platser/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/politiker-far-utbildning-om-hot-och-vald/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Det är viktigt för oss att våra förtroendevalda ska kunna utföra sitt arbete på ett tryggt och säkert sätt. Därför har vi nyligen genomfört en utbildning om hot och våld. Sedan den 1 juli 2025 har kommuner och regioner ett tydligare ansvar för trygghet och säkerhet för förtroendevalda.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lokala säkerhetsnämnden höll öppet möte i Öregrund]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-holl-oppet-mote-i-oregrund/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/lokala-sakerhetsnamnden-holl-oppet-mote-i-oregrund/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[En gång om året bjuder Lokala säkerhetsnämnden in allmänheten till öppet möte. I år hölls det i societetshuset i Öregrund, torsdagen den 25 juni. Mötet lockade ett 20-tal besökare som kom för att lyssna på informationen från Forsmarks Kraftgrupp AB, Svensk Kärnbränslehantering AB (SKB), kommunens slutförvarsorganisation med flera.]]></description>
         </item>
     </channel>
 </rss>
