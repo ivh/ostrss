@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 08 Jul 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flagga på halv stång för bortgången medarbetare]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/flagga-pa-halv-stang-for-avliden-medarbetare2/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/flagga-pa-halv-stang-for-avliden-medarbetare2/</guid>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Idag, tisdagen den 14 juli, flaggar vi på halv stång i samband med en medarbetares bortgång.]]></description>
+        </item>
         <item>
             <title><![CDATA[Ett kallbadhus kan bli verklighet med stöd av Ortslyftet]]></title>
             <link>https://www.osthammar.se/nyheter/2026/ett-kallbadhus-kan-bli-verklighet-med-stod-av-ortslyftet/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/workshop-om-lekplatser-forst-ut-i-nyetablerat-samarbete/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Nyligen hölls en workshop om funktionshinderanpassade lekplatser. Deltog gjorde representanter från den ukrainska kommunen Pivdennoukrainsk, som vill veta mer om vårt arbete med detta.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Politiker får utbildning om hot och våld]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/politiker-far-utbildning-om-hot-och-vald/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/politiker-far-utbildning-om-hot-och-vald/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Det är viktigt för oss att våra förtroendevalda ska kunna utföra sitt arbete på ett tryggt och säkert sätt. Därför har vi nyligen genomfört en utbildning om hot och våld. Sedan den 1 juli 2025 har kommuner och regioner ett tydligare ansvar för trygghet och säkerhet för förtroendevalda.]]></description>
         </item>
     </channel>
 </rss>
