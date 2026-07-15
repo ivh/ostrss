@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 14 Jul 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Information vid algblomning]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/information-vid-algblomning/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/information-vid-algblomning/</guid>
+            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vi hoppas på en fantastisk sommar med mycket sol och bad. Ett bad vid en eventuell algblomning kan dock innebära risker för både människor och djur.]]></description>
+        </item>
         <item>
             <title><![CDATA[Flagga på halv stång för bortgången medarbetare]]></title>
             <link>https://www.osthammar.se/nyheter/2026/flagga-pa-halv-stang-for-avliden-medarbetare2/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/god-samverkan-och-vuxennarvaro-under-midsommarhelgen-i-oregrund2/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Många ungdomar firade midsommar i Öregrund där fältverksamheten, nattvandrare och flera samverkansaktörer fanns på plats. Kvällen blev lugn utan större incidenter, och de vuxnas närvaro bidrog till positiva möten och ett gott stöd för ungdomarna.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Workshop om lekplatser först ut i nyetablerat samarbete]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/workshop-om-lekplatser-forst-ut-i-nyetablerat-samarbete/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/workshop-om-lekplatser-forst-ut-i-nyetablerat-samarbete/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Nyligen hölls en workshop om funktionshinderanpassade lekplatser. Deltog gjorde representanter från den ukrainska kommunen Pivdennoukrainsk, som vill veta mer om vårt arbete med detta.]]></description>
         </item>
     </channel>
 </rss>
