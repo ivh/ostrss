@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 15 Jul 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Avrådan från bad - Algblomning vid Vällenbadet]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/avradan-fran-bad---algblomning-vid-vallenbadet/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/avradan-fran-bad---algblomning-vid-vallenbadet/</guid>
+            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Just nu är det algblomning i Vällensjön. Vi rekommenderar att du undviker att bada här tills vidare. Barn, hundar och andra djur är extra känsliga för alggifter.]]></description>
+        </item>
         <item>
             <title><![CDATA[Information vid algblomning]]></title>
             <link>https://www.osthammar.se/nyheter/2026/information-vid-algblomning/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/vill-du-vara-en-del-av-kommunens-beredskapslager-for-drivmedel/</guid>
             <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Ett samarbete med det lokala näringslivet kring ett beredskapslager för drivmedel är en önskad modell för oss att kunna utveckla vår försörjningsberedskap. Nu behöver vi få kontakt med dig som vill vara med och bidra till att lokalsamhället ska fungera i en krissituation.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[God samverkan och vuxennärvaro under midsommarhelgen i Öregrund]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/god-samverkan-och-vuxennarvaro-under-midsommarhelgen-i-oregrund2/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/god-samverkan-och-vuxennarvaro-under-midsommarhelgen-i-oregrund2/</guid>
-            <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Många ungdomar firade midsommar i Öregrund där fältverksamheten, nattvandrare och flera samverkansaktörer fanns på plats. Kvällen blev lugn utan större incidenter, och de vuxnas närvaro bidrog till positiva möten och ett gott stöd för ungdomarna.]]></description>
         </item>
     </channel>
 </rss>
