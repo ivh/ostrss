@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-07-29T12:00:00.000Z</updated>
+    <updated>2026-08-05T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Stöd till företagare som vill stärka energiberedskapen]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/stod-till-foretagare-som-vill-starka-energiberedskapen/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/stod-till-foretagare-som-vill-starka-energiberedskapen/"/>
+        <updated>2026-08-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Från och med september kan företag som vill genomföra åtgärder för att minska sårbarheten i energisystemet söka stöd från Energimyndigheten. Ett tips till dig som vill söka är att förbereda dig redan nu, genom att ta reda på om den planerade investeringen kräver tillstånd eller anmälan.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Information om Båtveckan och Roslagsloppet i Öregrund 2026]]></title>
         <id>https://www.osthammar.se/nyheter/2026/information-om-batveckan-och-roslagsloppet-i-oregrund-2026/</id>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/alvsnas-badforening-tar-hand-om-badplatsen/"/>
         <updated>2026-07-01T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[När kommunen lämnade över skötseln av Älvsnäsbadet valde engagerade grannar att ta saken i egna händer. I dag ansvarar den nystartade Älvsnäs badförening för badplatsen.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kartor och mättjänster under semesterperioden]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/kartor-och-mattjanster-under-semesterperioden/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/kartor-och-mattjanster-under-semesterperioden/"/>
-        <updated>2026-06-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tjänsten för beställning av kartor och mättjänster är stängd under vecka 29–30. Om du behöver hjälp under denna period hänvisar vi till externa aktörer. Om du endast behöver en enklare översiktskarta kan du när som helst använda vår digitala tjänst Kommunkartan Östhammar.]]></summary>
     </entry>
 </feed>
