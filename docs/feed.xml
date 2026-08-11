@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 05 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testar att lägga in en film]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/testar-att-lagga-in-en-film/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/testar-att-lagga-in-en-film/</guid>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[dfafsaf]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Avrådan från bad vid Aspbobadet och Krutudden]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-vid-aspbobadet-och-krutudden/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-vid-aspbobadet-och-krutudden/</guid>
+            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[På grund av förhöjda halter av bakterien Intestinala enterokocker avråder vi allmänheten att bada vid Krutudden i Östhammar och vid Aspbobadet i Österbybruk.]]></description>
+        </item>
         <item>
             <title><![CDATA[Stöd till företagare som vill stärka energiberedskapen]]></title>
             <link>https://www.osthammar.se/nyheter/2026/stod-till-foretagare-som-vill-starka-energiberedskapen/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/tipsa-oss-om-intressanta-platser/</guid>
             <pubDate>Tue, 07 Jul 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Vi vill ha ditt tips om intressanta platser runt om i Östhammars kommun!Det kan vara en fin utsiktsplats, en bra grillplats, ett naturskönt område eller andra platser som du tycker är värda att dela med andra.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Viktigt om nya betalningsregler för läkemedelsköp på apotek]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/viktigt-om-nya-betalningsregler-for-lakemedelskop-pa-apotek/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/viktigt-om-nya-betalningsregler-for-lakemedelskop-pa-apotek/</guid>
-            <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Från och med 9 september 2026 försvinner nuvarande Apotekskonto som betalningslösning för läkemedelsköp på apotek. Istället införs Flexibel delbetalning. Det här är extra viktigt för dig som är anhörig till någon i behov av hjälp med inköp via kommunen eller som bor på vård- och omsorgsboende.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Älvsnäs badförening tar hand om badplatsen]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/alvsnas-badforening-tar-hand-om-badplatsen/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/alvsnas-badforening-tar-hand-om-badplatsen/</guid>
-            <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[När kommunen lämnade över skötseln av Älvsnäsbadet valde engagerade grannar att ta saken i egna händer. I dag ansvarar den nystartade Älvsnäs badförening för badplatsen.]]></description>
         </item>
     </channel>
 </rss>
