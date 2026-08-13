@@ -13,6 +13,13 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Snart dags för skolstart!]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/snart-dags-for-skolstart/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/snart-dags-for-skolstart/"/>
+        <updated>2026-08-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sommarlovet närmar sig sitt slut och höstterminen börjar tisdag 18 augusti 2026. Information inför terminsstarten hösten 2026]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lämna fallfrukten till återvinningscentralen]]></title>
         <id>https://www.osthammar.se/nyheter/2026/lamna-fallfrukten-till-atervinningscentralen/</id>
         <link href="https://www.osthammar.se/nyheter/2026/lamna-fallfrukten-till-atervinningscentralen/"/>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/information-vid-algblomning/"/>
         <updated>2026-07-15T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Vi hoppas på en fantastisk sommar med mycket sol och bad. Ett bad vid en eventuell algblomning kan dock innebära risker för både människor och djur.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ett kallbadhus kan bli verklighet med stöd av Ortslyftet]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/ett-kallbadhus-kan-bli-verklighet-med-stod-av-ortslyftet/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/ett-kallbadhus-kan-bli-verklighet-med-stod-av-ortslyftet/"/>
-        <updated>2026-07-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ett nytt kallbadhus planeras i Västerhamn i centrala Öregrund. Med stöd från kommunens bidrag Ortslyftet och stort lokalt engagemang vill föreningen skapa en plats för kallbad och gemenskap året runt.]]></summary>
     </entry>
 </feed>
