@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 12 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lämna fallfrukten till återvinningscentralen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/lamna-fallfrukten-till-atervinningscentralen/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/lamna-fallfrukten-till-atervinningscentralen/</guid>
+            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Nu börjar säsongen för fallfrukt, och vi får många frågor om hur den ska hanteras.]]></description>
+        </item>
         <item>
             <title><![CDATA[Nya e-tjänster på hemsidan]]></title>
             <link>https://www.osthammar.se/nyheter/2026/nya-e-tjanster-pa-hemsidan/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/flagga-pa-halv-stang-for-avliden-medarbetare2/</guid>
             <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Idag, tisdagen den 14 juli, flaggar vi på halv stång i samband med en medarbetares bortgång.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ett kallbadhus kan bli verklighet med stöd av Ortslyftet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/ett-kallbadhus-kan-bli-verklighet-med-stod-av-ortslyftet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/ett-kallbadhus-kan-bli-verklighet-med-stod-av-ortslyftet/</guid>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Ett nytt kallbadhus planeras i Västerhamn i centrala Öregrund. Med stöd från kommunens bidrag Ortslyftet och stort lokalt engagemang vill föreningen skapa en plats för kallbad och gemenskap året runt.]]></description>
         </item>
     </channel>
 </rss>
