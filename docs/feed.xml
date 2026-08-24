@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 18 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inventering av beredskapsbrunnar i kommunen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/inventering-av-beredskapsbrunnar-i-kommunen/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/inventering-av-beredskapsbrunnar-i-kommunen/</guid>
+            <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[För att säkra tillgången till dricksvatten när den ordinarie dricksvattenförsörjningen slutar fungera har ett antal möjliga beredskapsbrunnar inventerats i kommunen. Arbetet utfördes av studenten Hanna Rydén genom hennes kandidatuppsats.]]></description>
+        </item>
         <item>
             <title><![CDATA[Levla upp din hälsa med ett lopp för livet]]></title>
             <link>https://www.osthammar.se/nyheter/2026/levla-upp-din-halsa-med-ett-lopp-for-livet/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-borttagen-vid-vallenbadet/</guid>
             <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[UPPDATERING – 2026-07-20 Nu är det fritt fram att bada och fiska vid Vällenbadet igen! Dagens provtagning visar att det inte längre finns någon algblomning kvar. Tack vare det svalare vädret i helgen har vattnet återhämtat sig. 2026-07-17- Just nu är det algblomning i Vällensjön. Vi rekommenderar att du undviker att bada här tills vidare. Barn, hundar och andra djur är extra känsliga för alggifter.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Information vid algblomning]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/information-vid-algblomning/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/information-vid-algblomning/</guid>
-            <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Vi hoppas på en fantastisk sommar med mycket sol och bad. Ett bad vid en eventuell algblomning kan dock innebära risker för både människor och djur.]]></description>
         </item>
     </channel>
 </rss>
