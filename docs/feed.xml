@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Mon, 24 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Militärövning i Gimo och Österbruk]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/militarovning-i-gimo-och-osterbruk/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/militarovning-i-gimo-och-osterbruk/</guid>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Den 26–30 augusti kommer Flygbassäkerhetsplutonen från F16 att bedriva övning i skogarna mellan Österbybruk och Gimo, se det rödmarkerade området på kartan.]]></description>
+        </item>
         <item>
             <title><![CDATA[Inventering av beredskapsbrunnar i kommunen]]></title>
             <link>https://www.osthammar.se/nyheter/2026/inventering-av-beredskapsbrunnar-i-kommunen/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/vatten/</guid>
             <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Just nu är vi många som njuter av vår vackra natur och blomstrande trädgårdar. Samtidigt vill vi påminna om att vi behöver hjälpas åt att spara på vårt dricksvatten. Naturligtvis drar även kommunen sitt strå till stacken, bland annat genom att vattna planteringar med regnvatten.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Avrådan från bad borttagen vid Vällenbadet!]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-borttagen-vid-vallenbadet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-borttagen-vid-vallenbadet/</guid>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[UPPDATERING – 2026-07-20 Nu är det fritt fram att bada och fiska vid Vällenbadet igen! Dagens provtagning visar att det inte längre finns någon algblomning kvar. Tack vare det svalare vädret i helgen har vattnet återhämtat sig. 2026-07-17- Just nu är det algblomning i Vällensjön. Vi rekommenderar att du undviker att bada här tills vidare. Barn, hundar och andra djur är extra känsliga för alggifter.]]></description>
         </item>
     </channel>
 </rss>
