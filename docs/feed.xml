@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Gustav gör skillnad – möt mannen bakom servicen på ÅVC]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/gustav-gor-skillnad--mot-mannen-bakom-servicen-pa-avc/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/gustav-gor-skillnad--mot-mannen-bakom-servicen-pa-avc/</guid>
+            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Gustav är en uppskattad medarbetare på återvinningscentralen i Östhammar. Han hjälper gärna besökare och delar smarta tips för att underlätta sorteringen. Bakom kulisserna berättar han hur du förbereder dig för ett smidigare besök.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Militärövning i Gimo och Österbruk]]></title>
             <link>https://www.osthammar.se/nyheter/2026/militarovning-i-gimo-och-osterbruk/</link>
             <guid>https://www.osthammar.se/nyheter/2026/militarovning-i-gimo-och-osterbruk/</guid>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/information-om-batveckan-och-roslagsloppet-i-oregrund-2026/</guid>
             <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Båtveckan är en av sommarens stora höjdpunkter i Öregrund och pågår från lördag den 1 augusti till lördag den 8 augusti 2026. Här hittar du viktig information om trafikavstängningar, parkeringar och annat som är bra att känna till inför veckan.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Så tar vi tillvara på regnvatten i kommunen]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/vatten/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/vatten/</guid>
-            <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Just nu är vi många som njuter av vår vackra natur och blomstrande trädgårdar. Samtidigt vill vi påminna om att vi behöver hjälpas åt att spara på vårt dricksvatten. Naturligtvis drar även kommunen sitt strå till stacken, bland annat genom att vattna planteringar med regnvatten.]]></description>
         </item>
     </channel>
 </rss>
