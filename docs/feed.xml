@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 25 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fler elever till Bruksgymnasiet]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/</guid>
+            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Fler elever har valt att börja årskurs 1 på Bruksgymnasiet höstterminen 2026 än föregående läsår. Ökningen syns på flera av skolans program.]]></description>
+        </item>
         <item>
             <title><![CDATA[Gustav gör skillnad – möt mannen bakom servicen på ÅVC]]></title>
             <link>https://www.osthammar.se/nyheter/2026/gustav-gor-skillnad--mot-mannen-bakom-servicen-pa-avc/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/stod-till-foretagare-som-vill-starka-energiberedskapen/</guid>
             <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Från och med september kan företag som vill genomföra åtgärder för att minska sårbarheten i energisystemet söka stöd från Energimyndigheten. Ett tips till dig som vill söka är att förbereda dig redan nu, genom att ta reda på om den planerade investeringen kräver tillstånd eller anmälan.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Information om Båtveckan och Roslagsloppet i Öregrund 2026]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/information-om-batveckan-och-roslagsloppet-i-oregrund-2026/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/information-om-batveckan-och-roslagsloppet-i-oregrund-2026/</guid>
-            <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Båtveckan är en av sommarens stora höjdpunkter i Öregrund och pågår från lördag den 1 augusti till lördag den 8 augusti 2026. Här hittar du viktig information om trafikavstängningar, parkeringar och annat som är bra att känna till inför veckan.]]></description>
         </item>
     </channel>
 </rss>
