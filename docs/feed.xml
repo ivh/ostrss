@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 27 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Boende i gruppbostaden på Dannemoravägen evakueras]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/boende-i-gruppbostaden-pa-dannemoravagen-evakueras/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/boende-i-gruppbostaden-pa-dannemoravagen-evakueras/</guid>
+            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Gruppbostaden på Dannemoravägen I Österbybruk ska renoveras och under tiden behöver de boende flytta till ett annat tillfälligt boende från och med den 8 september.]]></description>
+        </item>
         <item>
             <title><![CDATA[Fler elever till Bruksgymnasiet]]></title>
             <link>https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-vid-aspbobadet-och-krutudden-borttagen/</guid>
             <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Avrådan borttagen – fritt fram att bada vid Aspbobadet och Krutudden. De senaste provsvaren visar att badvattnet nu är tjänligt. Därför häver vi avrådan från bad och välkomnar alla att bada igen. 💙]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stöd till företagare som vill stärka energiberedskapen]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/stod-till-foretagare-som-vill-starka-energiberedskapen/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/stod-till-foretagare-som-vill-starka-energiberedskapen/</guid>
-            <pubDate>Wed, 05 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Från och med september kan företag som vill genomföra åtgärder för att minska sårbarheten i energisystemet söka stöd från Energimyndigheten. Ett tips till dig som vill söka är att förbereda dig redan nu, genom att ta reda på om den planerade investeringen kräver tillstånd eller anmälan.]]></description>
         </item>
     </channel>
 </rss>
