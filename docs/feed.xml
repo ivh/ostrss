@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Fri, 28 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Snart dags för årets beredskapsvecka]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/snart-dags-for-arets-beredskapsvecka/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/snart-dags-for-arets-beredskapsvecka/</guid>
+            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vi tjuvstartar årets beredskapsvecka den 20 september med en föreläsning av krisberedskapsexperten Niklas Kämpargård i Österbybruk. Välkommen till våra kostnadsfria aktiviteter på olika platser i kommunen under perioden 20–27 september. Liksom i fjol är temat Du är en del av Sveriges totalförsvar.]]></description>
+        </item>
         <item>
             <title><![CDATA[Boende i gruppbostaden på Dannemoravägen evakueras]]></title>
             <link>https://www.osthammar.se/nyheter/2026/boende-i-gruppbostaden-pa-dannemoravagen-evakueras/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/nya-e-tjanster-pa-hemsidan/</guid>
             <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Under året har vi lanserat fyra nya e-tjänster på vår hemsida. Genom dessa kan du smidigt ansöka om olika tjänster inom bland annat trafik, omsorg och utbildning.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Avrådan från bad vid Aspbobadet och Krutudden borttagen]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-vid-aspbobadet-och-krutudden-borttagen/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/avradan-fran-bad-vid-aspbobadet-och-krutudden-borttagen/</guid>
-            <pubDate>Tue, 11 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Avrådan borttagen – fritt fram att bada vid Aspbobadet och Krutudden. De senaste provsvaren visar att badvattnet nu är tjänligt. Därför häver vi avrådan från bad och välkomnar alla att bada igen. 💙]]></description>
         </item>
     </channel>
 </rss>
