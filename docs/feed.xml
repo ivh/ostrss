@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Mon, 31 Aug 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nu kan du köpa gymkort på nätet]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/nu-kan-du-kopa-gymkort-pa-natet/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/nu-kan-du-kopa-gymkort-pa-natet/</guid>
+            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Från och med den 1 september kan du köpa gymkort på nätet! Vi börjar med gymmen i Öregrund och Östhammar.]]></description>
+        </item>
         <item>
             <title><![CDATA[Snart dags för årets beredskapsvecka]]></title>
             <link>https://www.osthammar.se/nyheter/2026/snart-dags-for-arets-beredskapsvecka/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/lamna-fallfrukten-till-atervinningscentralen/</guid>
             <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Nu börjar säsongen för fallfrukt, och vi får många frågor om hur den ska hanteras.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nya e-tjänster på hemsidan]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/nya-e-tjanster-pa-hemsidan/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/nya-e-tjanster-pa-hemsidan/</guid>
-            <pubDate>Wed, 12 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Under året har vi lanserat fyra nya e-tjänster på vår hemsida. Genom dessa kan du smidigt ansöka om olika tjänster inom bland annat trafik, omsorg och utbildning.]]></description>
         </item>
     </channel>
 </rss>

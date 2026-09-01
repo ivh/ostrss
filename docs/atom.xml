@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-08-31T12:00:00.000Z</updated>
+    <updated>2026-09-01T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Nu kan du köpa gymkort på nätet]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/nu-kan-du-kopa-gymkort-pa-natet/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/nu-kan-du-kopa-gymkort-pa-natet/"/>
+        <updated>2026-09-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Från och med den 1 september kan du köpa gymkort på nätet! Vi börjar med gymmen i Öregrund och Östhammar.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snart dags för årets beredskapsvecka]]></title>
         <id>https://www.osthammar.se/nyheter/2026/snart-dags-for-arets-beredskapsvecka/</id>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/lamna-fallfrukten-till-atervinningscentralen/"/>
         <updated>2026-08-13T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Nu börjar säsongen för fallfrukt, och vi får många frågor om hur den ska hanteras.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nya e-tjänster på hemsidan]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/nya-e-tjanster-pa-hemsidan/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/nya-e-tjanster-pa-hemsidan/"/>
-        <updated>2026-08-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Under året har vi lanserat fyra nya e-tjänster på vår hemsida. Genom dessa kan du smidigt ansöka om olika tjänster inom bland annat trafik, omsorg och utbildning.]]></summary>
     </entry>
 </feed>
