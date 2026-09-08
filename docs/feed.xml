@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 01 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bruksgymnasiet startar industritekniskt program]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/bruksgymnasiet-startar-industritekniskt-program/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/bruksgymnasiet-startar-industritekniskt-program/</guid>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Bruksgymnasiet i Gimo startar ett nytt industritekniskt program höstterminen 2027. Satsningen möjliggörs genom ett nära samarbete mellan Östhammars kommun och Sandvik Coromant AB samt ett ekonomiskt stöd på 5 miljoner kronor från Mervärdesavtalet.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Var med och påverka!]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/medborgarenkat-2026/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/medborgarenkat-2026/</guid>
+            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Har du fått årets medborgarundersökning? Ta chansen att vara med och påverka kommunens arbete framåt. Ju fler som svarar, desto bättre underlag får för beslut och prioriteringar.]]></description>
+        </item>
         <item>
             <title><![CDATA[Höstens program ut nu!]]></title>
             <link>https://www.osthammar.se/nyheter/2026/hostens-program-ut-nu/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/inventering-av-beredskapsbrunnar-i-kommunen/</guid>
             <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[För att säkra tillgången till dricksvatten när den ordinarie dricksvattenförsörjningen slutar fungera har ett antal möjliga beredskapsbrunnar inventerats i kommunen. Arbetet utfördes av studenten Hanna Rydén genom hennes kandidatuppsats.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Levla upp din hälsa med ett lopp för livet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/levla-upp-din-halsa-med-ett-lopp-for-livet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/levla-upp-din-halsa-med-ett-lopp-for-livet/</guid>
-            <pubDate>Tue, 18 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Alla kan vara med när Ett lopp för livet genomförs i Östhammar den 11 september. Motions- och välgörenhetsloppet samt en Statsbar Challenge utgör startskottet för fokusmånaden som handlar om psykisk hälsa och suicidprevention.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Snart dags för skolstart!]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/snart-dags-for-skolstart/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/snart-dags-for-skolstart/</guid>
-            <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Sommarlovet närmar sig sitt slut och höstterminen börjar tisdag 18 augusti 2026. Information inför terminsstarten hösten 2026]]></description>
         </item>
     </channel>
 </rss>
