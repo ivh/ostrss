@@ -13,6 +13,13 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Inga förtidsröster i Östhammars kommun har påverkats]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/inga-fortidsroster-i-osthammars-kommun-har-paverkats/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/inga-fortidsroster-i-osthammars-kommun-har-paverkats/"/>
+        <updated>2026-09-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Valmyndigheten har nu publicerat vilka kommuner som berörts av felet i förtidsröstningen. Östhammars kommun finns inte med bland de drabbade.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Militärövningar i Gimo och Harg]]></title>
         <id>https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/</id>
         <link href="https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/"/>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/boende-i-gruppbostaden-pa-dannemoravagen-evakueras/"/>
         <updated>2026-08-28T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Gruppbostaden på Dannemoravägen I Österbybruk ska renoveras och under tiden behöver de boende flytta till ett annat tillfälligt boende från och med den 8 september.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fler elever till Bruksgymnasiet]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/"/>
-        <updated>2026-08-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fler elever har valt att börja årskurs 1 på Bruksgymnasiet höstterminen 2026 än föregående läsår. Ökningen syns på flera av skolans program.]]></summary>
     </entry>
 </feed>

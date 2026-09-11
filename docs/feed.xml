@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Inga förtidsröster i Östhammars kommun har påverkats]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/inga-fortidsroster-i-osthammars-kommun-har-paverkats/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/inga-fortidsroster-i-osthammars-kommun-har-paverkats/</guid>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Valmyndigheten har nu publicerat vilka kommuner som berörts av felet i förtidsröstningen. Östhammars kommun finns inte med bland de drabbade.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Militärövningar i Gimo och Harg]]></title>
             <link>https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/</link>
             <guid>https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/</guid>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/boende-i-gruppbostaden-pa-dannemoravagen-evakueras/</guid>
             <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Gruppbostaden på Dannemoravägen I Österbybruk ska renoveras och under tiden behöver de boende flytta till ett annat tillfälligt boende från och med den 8 september.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fler elever till Bruksgymnasiet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/</guid>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Fler elever har valt att börja årskurs 1 på Bruksgymnasiet höstterminen 2026 än föregående läsår. Ökningen syns på flera av skolans program.]]></description>
         </item>
     </channel>
 </rss>
