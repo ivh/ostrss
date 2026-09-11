@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 10 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Militärövningar i Gimo och Harg]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/</guid>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Försvarsmakten kommer att genomföra två mindre övningar i området runt Gimo den 15–17 september och i området Hargs bruk den 24–25 september. Om du hör skottlossning är det 1614 Strilförsvarskompani som övar med lös ammunition.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gör din ort ännu bättre!]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/gor-din-ort-annu-battre/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/gor-din-ort-annu-battre/</guid>
+            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Har du en idé som kan göra din boendeort mer trivsam, levande och attraktiv? Det finns pengar att söka genom Ortslyftet för insatser som utvecklar platsen och skapar nytta för både boende och besökare.]]></description>
+        </item>
         <item>
             <title><![CDATA[Avvikande tider för sophämtning på Gräsö]]></title>
             <link>https://www.osthammar.se/nyheter/2026/avvikande-tider-for-sophamtning-pa-graso/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/fler-elever-till-bruksgymnasiet/</guid>
             <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Fler elever har valt att börja årskurs 1 på Bruksgymnasiet höstterminen 2026 än föregående läsår. Ökningen syns på flera av skolans program.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gustav gör skillnad – möt mannen bakom servicen på ÅVC]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/gustav-gor-skillnad--mot-mannen-bakom-servicen-pa-avc/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/gustav-gor-skillnad--mot-mannen-bakom-servicen-pa-avc/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Gustav är en uppskattad medarbetare på återvinningscentralen i Östhammar. Han hjälper gärna besökare och delar smarta tips för att underlätta sorteringen. Bakom kulisserna berättar han hur du förbereder dig för ett smidigare besök.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Militärövning i Gimo och Österbybruk]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/militarovning-i-gimo-och-osterbybruk/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/militarovning-i-gimo-och-osterbybruk/</guid>
-            <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Den 26–30 augusti kommer Flygbassäkerhetsplutonen från F16 att bedriva övning i skogarna mellan Österbybruk och Gimo, se det rödmarkerade området på kartan.]]></description>
         </item>
     </channel>
 </rss>
