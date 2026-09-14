@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Om skyddsrum och skyddade utrymmen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/om-skyddsrum-och-skyddade-utrymmen/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/om-skyddsrum-och-skyddade-utrymmen/</guid>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[I samband med beredskapsveckan bjuder vi in till en eftermiddag med en föreläsning om skyddsrum och skyddade utrymmen. Möt Marcus Nåsby från Säkerhetsskydd och beredskap och Torgny Gille från Stiftelsen Östhammarshem och besök ett skyddat utrymme i källaren på Norra Tullportsgatan 3 i Östhammar.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Östhammar är en trygg kommun]]></title>
             <link>https://www.osthammar.se/nyheter/2026/osthammar-ar-en-trygg-kommun/</link>
             <guid>https://www.osthammar.se/nyheter/2026/osthammar-ar-en-trygg-kommun/</guid>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/medborgarenkat-2026/</guid>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Har du fått årets medborgarundersökning? Ta chansen att vara med och påverka kommunens arbete framåt. Ju fler som svarar, desto bättre underlag får för beslut och prioriteringar.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Höstens program ut nu!]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/hostens-program-ut-nu/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/hostens-program-ut-nu/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Med veckans Annonsnytt kommer tidningen Uppleva & göra hösten 2026. Där kan du hitta höstens program med konserter, barnaktiviteter, föreläsningar och mycket mer.]]></description>
         </item>
     </channel>
 </rss>
