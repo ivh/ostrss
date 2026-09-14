@@ -4,12 +4,33 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Fri, 11 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Östhammar är en trygg kommun]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/osthammar-ar-en-trygg-kommun/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/osthammar-ar-en-trygg-kommun/</guid>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vartannat år uppdaterar vi en lägesbild som visar en kartläggning av brottsligheten, dess omfattning och konsekvenser. Den aktuella lägesbilden visar att Östhammars kommun är en plats med låg brottslighet där invånarna känner sig trygga.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Bygdegårdarnas roll i krisberedskapen stärks]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/bygdegardarnas-roll-i-krisberedskapen-starks/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/bygdegardarnas-roll-i-krisberedskapen-starks/</guid>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Bygdegårdar runt om i landet har en viktig roll i samhällets krisberedskap. Därför har regeringen beslutat att ge Bygdegårdarnas Riksförbund ett engångsbidrag på 6 miljoner kronor – medel som bygdegårdsföreningar nu kan söka för att stärka bygdegårdarnas kapacitet att hantera kriser.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Invigning av kampanjen För livets alla – på Frösåkersvallen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/invigning-av-kampanjen-for-livets-alla--pa-frosakersvallen/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/invigning-av-kampanjen-for-livets-alla--pa-frosakersvallen/</guid>
+            <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Den 11 september arrangerades ett välgörenhetslopp för att uppmärksamma psykisk ohälsa och suicid samt vikten av motion för både fysiskt som psykiskt välmående. Många aktörer samverkade och bidrog till en rolig dag med ett viktigt innehåll på Frösåkersvallen i Östhammar.]]></description>
+        </item>
         <item>
             <title><![CDATA[Inga förtidsröster i Östhammars kommun har påverkats]]></title>
             <link>https://www.osthammar.se/nyheter/2026/inga-fortidsroster-i-osthammars-kommun-har-paverkats/</link>
@@ -58,27 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/hostens-program-ut-nu/</guid>
             <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Med veckans Annonsnytt kommer tidningen Uppleva & göra hösten 2026. Där kan du hitta höstens program med konserter, barnaktiviteter, föreläsningar och mycket mer.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nu kan du köpa gymkort på nätet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/nu-kan-du-kopa-gymkort-pa-natet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/nu-kan-du-kopa-gymkort-pa-natet/</guid>
-            <pubDate>Tue, 01 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Från och med den 1 september kan du köpa gymkort på nätet! Vi börjar med gymmen i Öregrund och Östhammar.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Snart dags för årets beredskapsvecka]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/snart-dags-for-arets-beredskapsvecka/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/snart-dags-for-arets-beredskapsvecka/</guid>
-            <pubDate>Mon, 31 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Vi tjuvstartar årets beredskapsvecka den 20 september med en föreläsning av krisberedskapsexperten Niklas Kämpargård i Österbybruk. Välkommen till våra kostnadsfria aktiviteter på olika platser i kommunen under perioden 20–27 september. Liksom i fjol är temat Du är en del av Sveriges totalförsvar.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Boende i gruppbostaden på Dannemoravägen evakueras]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/boende-i-gruppbostaden-pa-dannemoravagen-evakueras/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/boende-i-gruppbostaden-pa-dannemoravagen-evakueras/</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Gruppbostaden på Dannemoravägen I Österbybruk ska renoveras och under tiden behöver de boende flytta till ett annat tillfälligt boende från och med den 8 september.]]></description>
         </item>
     </channel>
 </rss>
