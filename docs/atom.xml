@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-09-14T12:00:00.000Z</updated>
+    <updated>2026-09-17T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Beredskapsarbete för minskad sårbarhet och ökad handlingskraft]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/beredskapsarbete-for-minskad-sarbarhet-och-okad-handlingskraft/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/beredskapsarbete-for-minskad-sarbarhet-och-okad-handlingskraft/"/>
+        <updated>2026-09-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[På söndag den 20 september startar vi beredskapsveckans program med en föreläsning av krisberedskapsexperten Niklas Kämpargård. Att bygga beredskap handlar om att skaffa erfarenhet, kunskap och utrustning långt innan krisen inträffar. Kom och lyssna på Niklas konkreta tips och råd, i Österbybruks herrgård kl 14:00.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Om skyddsrum och skyddade utrymmen]]></title>
         <id>https://www.osthammar.se/nyheter/2026/om-skyddsrum-och-skyddade-utrymmen/</id>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/bruksgymnasiet-startar-industritekniskt-program/"/>
         <updated>2026-09-08T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bruksgymnasiet i Gimo startar ett nytt industritekniskt program höstterminen 2027. Satsningen möjliggörs genom ett nära samarbete mellan Östhammars kommun och Sandvik Coromant AB samt ett ekonomiskt stöd på 5 miljoner kronor från Mervärdesavtalet.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Var med och påverka!]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/medborgarenkat-2026/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/medborgarenkat-2026/"/>
-        <updated>2026-09-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Har du fått årets medborgarundersökning? Ta chansen att vara med och påverka kommunens arbete framåt. Ju fler som svarar, desto bättre underlag får för beslut och prioriteringar.]]></summary>
     </entry>
 </feed>

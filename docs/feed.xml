@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Mon, 14 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beredskapsarbete för minskad sårbarhet och ökad handlingskraft]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/beredskapsarbete-for-minskad-sarbarhet-och-okad-handlingskraft/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/beredskapsarbete-for-minskad-sarbarhet-och-okad-handlingskraft/</guid>
+            <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[På söndag den 20 september startar vi beredskapsveckans program med en föreläsning av krisberedskapsexperten Niklas Kämpargård. Att bygga beredskap handlar om att skaffa erfarenhet, kunskap och utrustning långt innan krisen inträffar. Kom och lyssna på Niklas konkreta tips och råd, i Österbybruks herrgård kl 14:00.]]></description>
+        </item>
         <item>
             <title><![CDATA[Om skyddsrum och skyddade utrymmen]]></title>
             <link>https://www.osthammar.se/nyheter/2026/om-skyddsrum-och-skyddade-utrymmen/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/bruksgymnasiet-startar-industritekniskt-program/</guid>
             <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Bruksgymnasiet i Gimo startar ett nytt industritekniskt program höstterminen 2027. Satsningen möjliggörs genom ett nära samarbete mellan Östhammars kommun och Sandvik Coromant AB samt ett ekonomiskt stöd på 5 miljoner kronor från Mervärdesavtalet.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Var med och påverka!]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/medborgarenkat-2026/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/medborgarenkat-2026/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Har du fått årets medborgarundersökning? Ta chansen att vara med och påverka kommunens arbete framåt. Ju fler som svarar, desto bättre underlag får för beslut och prioriteringar.]]></description>
         </item>
     </channel>
 </rss>
