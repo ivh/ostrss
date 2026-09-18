@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 17 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Österbybruk – en av våra älskade och skyddade kulturmiljöer]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/osterbybruk--en-av-vara-alskade-och-skyddade-kulturmiljoer/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/osterbybruk--en-av-vara-alskade-och-skyddade-kulturmiljoer/</guid>
+            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Programmet för årets beredskapsvecka inleds på söndag i Österbybruks herrgård, som är en av kommunens skyddade kulturmiljöer i händelse av väpnad konflikt. Bengt Lindholm, verksamhetschef, inleder med att berätta om kulturmiljön som 3D-skannats och dokumenterats digitalt.]]></description>
+        </item>
         <item>
             <title><![CDATA[Beredskapsarbete för minskad sårbarhet och ökad handlingskraft]]></title>
             <link>https://www.osthammar.se/nyheter/2026/beredskapsarbete-for-minskad-sarbarhet-och-okad-handlingskraft/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/avvikande-tider-for-sophamtning-pa-graso/</guid>
             <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[På grund av den asfaltering som sker på Gräsö nu är framkomligheten begränsad. Därför kommer vi att ha tillfälligt avvikande tider för sophämtning under tiden asfalteringen pågår.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bruksgymnasiet startar industritekniskt program]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/bruksgymnasiet-startar-industritekniskt-program/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/bruksgymnasiet-startar-industritekniskt-program/</guid>
-            <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Bruksgymnasiet i Gimo startar ett nytt industritekniskt program höstterminen 2027. Satsningen möjliggörs genom ett nära samarbete mellan Östhammars kommun och Sandvik Coromant AB samt ett ekonomiskt stöd på 5 miljoner kronor från Mervärdesavtalet.]]></description>
         </item>
     </channel>
 </rss>
