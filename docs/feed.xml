@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Fri, 18 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kritiska nivåer, utökat bevattningsförbud]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/bevattningsforbudet-utokas-till-fler-orter-i-var-kommun/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/bevattningsforbudet-utokas-till-fler-orter-i-var-kommun/</guid>
+            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[På grund av fortsatt kritiskt låga grundvattennivåer på flera orter i kommunen utökar Gästrike Vatten idag, den 22 september, bevattningsförbudet. Från och med i eftermiddag gäller förbudet även i Viklinge och Hökhuvud.]]></description>
+        </item>
         <item>
             <title><![CDATA[Österbybruk – en av våra älskade och skyddade kulturmiljöer]]></title>
             <link>https://www.osthammar.se/nyheter/2026/osterbybruk--en-av-vara-alskade-och-skyddade-kulturmiljoer/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/gor-din-ort-annu-battre/</guid>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Har du en idé som kan göra din boendeort mer trivsam, levande och attraktiv? Det finns pengar att söka genom Ortslyftet för insatser som utvecklar platsen och skapar nytta för både boende och besökare.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Avvikande tider för sophämtning på Gräsö]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/avvikande-tider-for-sophamtning-pa-graso/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/avvikande-tider-for-sophamtning-pa-graso/</guid>
-            <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[På grund av den asfaltering som sker på Gräsö nu är framkomligheten begränsad. Därför kommer vi att ha tillfälligt avvikande tider för sophämtning under tiden asfalteringen pågår.]]></description>
         </item>
     </channel>
 </rss>
