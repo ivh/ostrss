@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 22 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[En plan för storskalig utrymning]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/en-plan-for-storskalig-utrymning/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/en-plan-for-storskalig-utrymning/</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Under 2026 har det införts och föreslagits omfattande lagändringar som skärper kraven på kommunernas planering för befolkningsskydd och civilt försvar. Därför påbörjar vi nu, tillsammans med konsultföretaget Sweco, ett arbete med att ta fram ett underlag till en plan för storskalig utrymning.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Är du Oskars efterträdare?]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/ar-du-oskars-eftertradare/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/ar-du-oskars-eftertradare/</guid>
+            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Oskar går vidare till nya utmaningar och därför söker vi en ny medarbetare till Säkerhetsskydd och beredskap. Vill du vara med och utveckla vårt arbete inom trygghet, brottsförebyggande arbete, krisberedskap och civilt försvar är det här jobbet intressant för dig!]]></description>
+        </item>
         <item>
             <title><![CDATA[Kritiska nivåer, utökat bevattningsförbud]]></title>
             <link>https://www.osthammar.se/nyheter/2026/bevattningsforbudet-utokas-till-fler-orter-i-var-kommun/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/inga-fortidsroster-i-osthammars-kommun-har-paverkats/</guid>
             <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Valmyndigheten har nu publicerat vilka kommuner som berörts av felet i förtidsröstningen. Östhammars kommun finns inte med bland de drabbade.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Militärövningar i Gimo och Harg]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/militarovningar-i-gimo-och-harg/</guid>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Försvarsmakten kommer att genomföra två mindre övningar i området runt Gimo den 15–17 september och i området Hargs bruk den 24–25 september. Om du hör skottlossning är det 1614 Strilförsvarskompani som övar med lös ammunition.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gör din ort ännu bättre!]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/gor-din-ort-annu-battre/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/gor-din-ort-annu-battre/</guid>
-            <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Har du en idé som kan göra din boendeort mer trivsam, levande och attraktiv? Det finns pengar att söka genom Ortslyftet för insatser som utvecklar platsen och skapar nytta för både boende och besökare.]]></description>
         </item>
     </channel>
 </rss>
