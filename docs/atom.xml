@@ -13,6 +13,20 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Militären övar i skogarna kring Gimo]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/militaren-ovar-i-skogarna-kring-gimo/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/militaren-ovar-i-skogarna-kring-gimo/"/>
+        <updated>2026-09-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Försvarsmakten kommer att öva i Gimo under perioden 25–28 september. Det innebär sporadisk lösskjutning och att soldater rör sig i området under dygnets alla timmar.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPA-träff i Alunda – på temat trafiksäkerhet]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/epa-traff-i-alunda--pa-temat-trafiksakerhet/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/epa-traff-i-alunda--pa-temat-trafiksakerhet/"/>
+        <updated>2026-09-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[På lördag, den 26 september, hålls en EPA-träff vid fritidsgården i Alunda. Ungdomarna ska visa upp sina fordon och prata med räddningstjänsten om trafiksäkerhet.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Visste du att Anhörigstöd skickar ut ett nyhetsbrev varje månad?]]></title>
         <id>https://www.osthammar.se/nyheter/2026/visste-du-att-anhorigstod-skickar-ut-ett-nyhetsbrev-varje-manad/</id>
         <link href="https://www.osthammar.se/nyheter/2026/visste-du-att-anhorigstod-skickar-ut-ett-nyhetsbrev-varje-manad/"/>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/om-skyddsrum-och-skyddade-utrymmen/"/>
         <updated>2026-09-14T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[I samband med beredskapsveckan bjuder vi in till en eftermiddag med en föreläsning om skyddsrum och skyddade utrymmen. Möt Marcus Nåsby från Säkerhetsskydd och beredskap och Torgny Gille från Stiftelsen Östhammarshem och besök ett skyddat utrymme i källaren på Norra Tullportsgatan 3 i Östhammar.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Östhammar är en trygg kommun]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/osthammar-ar-en-trygg-kommun/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/osthammar-ar-en-trygg-kommun/"/>
-        <updated>2026-09-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vartannat år uppdaterar vi en lägesbild som visar en kartläggning av brottsligheten, dess omfattning och konsekvenser. Den aktuella lägesbilden visar att Östhammars kommun är en plats med låg brottslighet där invånarna känner sig trygga.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bygdegårdarnas roll i krisberedskapen stärks]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/bygdegardarnas-roll-i-krisberedskapen-starks/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/bygdegardarnas-roll-i-krisberedskapen-starks/"/>
-        <updated>2026-09-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bygdegårdar runt om i landet har en viktig roll i samhällets krisberedskap. Därför har regeringen beslutat att ge Bygdegårdarnas Riksförbund ett engångsbidrag på 6 miljoner kronor – medel som bygdegårdsföreningar nu kan söka för att stärka bygdegårdarnas kapacitet att hantera kriser.]]></summary>
     </entry>
 </feed>
