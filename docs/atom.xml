@@ -13,6 +13,13 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
+        <title type="html"><![CDATA[Visste du att Anhörigstöd skickar ut ett nyhetsbrev varje månad?]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/visste-du-att-anhorigstod-skickar-ut-ett-nyhetsbrev-varje-manad/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/visste-du-att-anhorigstod-skickar-ut-ett-nyhetsbrev-varje-manad/"/>
+        <updated>2026-09-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Där får du tips, information och inspiration som kan underlätta vardagen för dig som är anhörig.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dagvattnets dag – även enkla åtgärder gör skillnad]]></title>
         <id>https://www.osthammar.se/nyheter/2026/dagvattnets-dag--aven-enkla-atgarder-gor-skillnad/</id>
         <link href="https://www.osthammar.se/nyheter/2026/dagvattnets-dag--aven-enkla-atgarder-gor-skillnad/"/>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/bygdegardarnas-roll-i-krisberedskapen-starks/"/>
         <updated>2026-09-14T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bygdegårdar runt om i landet har en viktig roll i samhällets krisberedskap. Därför har regeringen beslutat att ge Bygdegårdarnas Riksförbund ett engångsbidrag på 6 miljoner kronor – medel som bygdegårdsföreningar nu kan söka för att stärka bygdegårdarnas kapacitet att hantera kriser.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invigning av kampanjen För livets alla – på Frösåkersvallen]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/invigning-av-kampanjen-for-livets-alla--pa-frosakersvallen/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/invigning-av-kampanjen-for-livets-alla--pa-frosakersvallen/"/>
-        <updated>2026-09-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Den 11 september arrangerades ett välgörenhetslopp för att uppmärksamma psykisk ohälsa och suicid samt vikten av motion för både fysiskt som psykiskt välmående. Många aktörer samverkade och bidrog till en rolig dag med ett viktigt innehåll på Frösåkersvallen i Östhammar.]]></summary>
     </entry>
 </feed>
