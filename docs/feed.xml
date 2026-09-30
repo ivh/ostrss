@@ -4,12 +4,33 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 29 Sep 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fyra kvarter på Prästgårdshöjden kan få nya bostäder]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/fyra-kvarter-pa-prastgardshojden-kan-fa-nya-bostader/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/fyra-kvarter-pa-prastgardshojden-kan-fa-nya-bostader/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Nu säljs fyra kvarter med byggrätter på Prästgårdshöjden i Alunda till tre aktörer som vill utveckla området med nya bostäder.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Byggstart för gångbryggorna i Öregrunds hamn]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/byggstart-for-gangbryggorna-i-oregrunds-hamn/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/byggstart-for-gangbryggorna-i-oregrunds-hamn/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Projektet närmar sig nu sin officiella byggstart. Måndag den 12 oktober börjar företaget Sjötek som har fått uppdraget att renovera bryggorna, arbetet med att stänga av området för allmänheten.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fritidskortet – stöd till barns och ungas fritidsaktiviteter]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/fritidskortet--stod-till-barns-och-ungas-fritidsaktiviteter/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/fritidskortet--stod-till-barns-och-ungas-fritidsaktiviteter/</guid>
+            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Fritidskortet är ett digitalt ekonomiskt stöd som kan användas för att betala avgifter för barns och ungas fritidsaktiviteter. Det kan till exempel handla om idrott, kultur eller friluftsliv. Syftet är att göra det möjligt för fler barn och unga att delta i aktiviteter.]]></description>
+        </item>
         <item>
             <title><![CDATA[Ungas hälsa årets tema för Tillsammansdagen]]></title>
             <link>https://www.osthammar.se/nyheter/2026/ungas-halsa-arets-tema-for-tillsammansdagen/</link>
@@ -58,27 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/en-plan-for-storskalig-utrymning/</guid>
             <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Under 2026 har det införts och föreslagits omfattande lagändringar som skärper kraven på kommunernas planering för befolkningsskydd och civilt försvar. Därför påbörjar vi nu, tillsammans med konsultföretaget Sweco, ett arbete med att ta fram ett underlag till en plan för storskalig utrymning.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Är du Oskars efterträdare?]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/ar-du-oskars-eftertradare/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/ar-du-oskars-eftertradare/</guid>
-            <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Oskar går vidare till nya utmaningar och därför söker vi en ny medarbetare till Säkerhetsskydd och beredskap. Vill du vara med och utveckla vårt arbete inom trygghet, brottsförebyggande arbete, krisberedskap och civilt försvar är det här jobbet intressant för dig!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kritiska nivåer, utökat bevattningsförbud]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/bevattningsforbudet-utokas-till-fler-orter-i-var-kommun/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/bevattningsforbudet-utokas-till-fler-orter-i-var-kommun/</guid>
-            <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[På grund av fortsatt kritiskt låga grundvattennivåer på flera orter i kommunen utökar Gästrike Vatten idag, den 22 september, bevattningsförbudet. Från och med i eftermiddag gäller förbudet även i Viklinge och Hökhuvud.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Österbybruk – en av våra älskade och skyddade kulturmiljöer]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/osterbybruk--en-av-vara-alskade-och-skyddade-kulturmiljoer/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/osterbybruk--en-av-vara-alskade-och-skyddade-kulturmiljoer/</guid>
-            <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Programmet för årets beredskapsvecka inleds på söndag i Österbybruks herrgård, som är en av kommunens skyddade kulturmiljöer i händelse av väpnad konflikt. Bengt Lindholm, verksamhetschef, inleder med att berätta om kulturmiljön som 3D-skannats och dokumenterats digitalt.]]></description>
         </item>
     </channel>
 </rss>
