@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-09-30T12:00:00.000Z</updated>
+    <updated>2026-10-01T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Hjälp till att sprida budskapet ”Tänk säkert”]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/hjalp-till-att-sprida-budskapet-tank-sakert/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/hjalp-till-att-sprida-budskapet-tank-sakert/"/>
+        <updated>2026-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersäkerhetsmånaden infaller varje år i oktober. Det är en månad då vi alla kan hjälpas åt att sprida kunskap om hur vi kan bli säkrare på nätet. Enkla, konkreta råd för att stärka den allmänna kunskapen och medvetenheten om digital säkerhet kan göra stor skillnad. Målet är att fler ska känna sig trygga och använda digitala tjänster på ett säkert sätt.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fyra kvarter på Prästgårdshöjden kan få nya bostäder]]></title>
         <id>https://www.osthammar.se/nyheter/2026/fyra-kvarter-pa-prastgardshojden-kan-fa-nya-bostader/</id>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/dagvattnets-dag--aven-enkla-atgarder-gor-skillnad/"/>
         <updated>2026-09-24T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Den 24 september varje år är det Dagvattnets dag. Genom olika åtgärder – stora som små – kan vi tillsammans hjälpas åt med att minska dagvattnets negativa påverkan på våra ytvatten.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En plan för storskalig utrymning]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/en-plan-for-storskalig-utrymning/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/en-plan-for-storskalig-utrymning/"/>
-        <updated>2026-09-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Under 2026 har det införts och föreslagits omfattande lagändringar som skärper kraven på kommunernas planering för befolkningsskydd och civilt försvar. Därför påbörjar vi nu, tillsammans med konsultföretaget Sweco, ett arbete med att ta fram ett underlag till en plan för storskalig utrymning.]]></summary>
     </entry>
 </feed>
