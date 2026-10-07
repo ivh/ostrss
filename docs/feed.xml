@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 01 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Försvarsmakten möter elever på Bruksgymnasiet]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/forsvarsmakten-moter-elever-pa-bruksgymnasiet/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/forsvarsmakten-moter-elever-pa-bruksgymnasiet/</guid>
+            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Samtliga elever i årskurs 1 på Bruksgymnasiet fick tillfälle att möta Försvarsmakten i samband med årets beredskapsvecka. Att de är en del av Sveriges totalförsvar var kanske något av en överraskning för en del av dem, men intresset för att göra värnplikt är stort.]]></description>
+        </item>
         <item>
             <title><![CDATA[Hjälp till att sprida budskapet ”Tänk säkert”]]></title>
             <link>https://www.osthammar.se/nyheter/2026/hjalp-till-att-sprida-budskapet-tank-sakert/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/visste-du-att-anhorigstod-skickar-ut-ett-nyhetsbrev-varje-manad/</guid>
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Där får du tips, information och inspiration som kan underlätta vardagen för dig som är anhörig.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dagvattnets dag – även enkla åtgärder gör skillnad]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/dagvattnets-dag--aven-enkla-atgarder-gor-skillnad/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/dagvattnets-dag--aven-enkla-atgarder-gor-skillnad/</guid>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Den 24 september varje år är det Dagvattnets dag. Genom olika åtgärder – stora som små – kan vi tillsammans hjälpas åt med att minska dagvattnets negativa påverkan på våra ytvatten.]]></description>
         </item>
     </channel>
 </rss>
