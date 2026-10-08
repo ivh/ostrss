@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 07 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Skolan satsar på mer naturvetenskap, teknik och matematik]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/skolan-satsar-pa-mer-naturvetenskap-teknik-och-matematik/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/skolan-satsar-pa-mer-naturvetenskap-teknik-och-matematik/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Förskolebarn och elever i årskurs 3 är först ut att få ta del av en ny satsning som vi gör på NTA (Naturvetenskap och Teknik för Alla). Nyligen fick barn- och utbildningsnämndens ledamöter en presentation av materialet som köpts in och tillfälle att praktiskt testa det.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Oljeläckage från grundstött färja i Övning Birgit]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/oljelackage-fran-grundstott-farja-i-ovning-birgit/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/oljelackage-fran-grundstott-farja-i-ovning-birgit/</guid>
+            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[På tisdag i nästa vecka kommer vi att ha en oljeskyddsövning tillsammans med flera andra aktörer. En av Färjerederiets färjor grundstöter, tar in vatten och släpper ut olja - ett allvarligt scenario som kräver ett omedelbart, samordnat och omfattande räddningspådrag.]]></description>
+        </item>
         <item>
             <title><![CDATA[Försvarsmakten möter elever på Bruksgymnasiet]]></title>
             <link>https://www.osthammar.se/nyheter/2026/forsvarsmakten-moter-elever-pa-bruksgymnasiet/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/militaren-ovar-i-skogarna-kring-gimo/</guid>
             <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Försvarsmakten kommer att öva i Gimo under perioden 25–28 september. Det innebär sporadisk lösskjutning och att soldater rör sig i området under dygnets alla timmar.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EPA-träff i Alunda – på temat trafiksäkerhet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/epa-traff-i-alunda--pa-temat-trafiksakerhet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/epa-traff-i-alunda--pa-temat-trafiksakerhet/</guid>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[På lördag, den 26 september, hålls en EPA-träff vid fritidsgården i Alunda. Ungdomarna ska visa upp sina fordon och prata med räddningstjänsten om trafiksäkerhet.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Visste du att Anhörigstöd skickar ut ett nyhetsbrev varje månad?]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/visste-du-att-anhorigstod-skickar-ut-ett-nyhetsbrev-varje-manad/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/visste-du-att-anhorigstod-skickar-ut-ett-nyhetsbrev-varje-manad/</guid>
-            <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Där får du tips, information och inspiration som kan underlätta vardagen för dig som är anhörig.]]></description>
         </item>
     </channel>
 </rss>
