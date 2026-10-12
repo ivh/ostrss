@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Svara på vår enkät om att rösta i årets val]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/svara-pa-var-enkat-om-att-rosta-i-arets-val/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/svara-pa-var-enkat-om-att-rosta-i-arets-val/</guid>
+            <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Har du röstat i årets val? Hjälp oss genom att svara på en kort enkät om hur du upplevde att rösta. Dina svar är värdefulla och hjälper oss i vårt fortsatta arbete. Enkäten är öppen till och med den 15/11.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Dricksvattnet är på väg att ta slut]]></title>
             <link>https://www.osthammar.se/nyheter/2026/dricksvattnet-ar-pa-vag-att-ta-slut/</link>
             <guid>https://www.osthammar.se/nyheter/2026/dricksvattnet-ar-pa-vag-att-ta-slut/</guid>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/fritidskortet--stod-till-barns-och-ungas-fritidsaktiviteter/</guid>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Fritidskortet är ett digitalt ekonomiskt stöd som kan användas för att betala avgifter för barns och ungas fritidsaktiviteter. Det kan till exempel handla om idrott, kultur eller friluftsliv. Syftet är att göra det möjligt för fler barn och unga att delta i aktiviteter.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ungas hälsa årets tema för Tillsammansdagen]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/ungas-halsa-arets-tema-for-tillsammansdagen/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/ungas-halsa-arets-tema-for-tillsammansdagen/</guid>
-            <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Ungas hälsa var temat på årets Tillsammansdag då representanter för förskola, skola, kultur och fritid samt omsorg med socialtjänst och öppenvård möts för att lära av varandra, upprätthålla ett gott samarbete och kunna stötta varandra i respektive verksamhet.]]></description>
         </item>
     </channel>
 </rss>
