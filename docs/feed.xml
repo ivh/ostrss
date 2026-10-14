@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Mon, 12 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Se upp för telefonbedrägerier mot äldre]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/se-upp-for-telefonbedragerier-mot-aldre/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/se-upp-for-telefonbedragerier-mot-aldre/</guid>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[En ny våg av telefonbedrägerier riktade mot äldre pågår i flera svenska län, bland annat i Uppsala län. Nu vill vi varna för den här typen av bedrägerier och uppmana er alla att prata om detta med en mamma, en farfar, en granne eller kompis. Tillsammans kan vi stå emot bedragarna.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ny avfallslagstiftning för detaljhandel och verksamheter]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/ny-avfallslagstiftning-for-detaljhandel-och-verksamheter/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/ny-avfallslagstiftning-for-detaljhandel-och-verksamheter/</guid>
+            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Sedan 1 juli 2026 gäller ny avfallslagstiftning som innebär att Östhammars kommuns ansvar för att hämta vissa typer av avfall från detaljhandel och verksamheter upphör.]]></description>
+        </item>
         <item>
             <title><![CDATA[Svara på vår enkät om att rösta i årets val]]></title>
             <link>https://www.osthammar.se/nyheter/2026/svara-pa-var-enkat-om-att-rosta-i-arets-val/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/fyra-kvarter-pa-prastgardshojden-kan-fa-nya-bostader/</guid>
             <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Nu säljs fyra kvarter med byggrätter på Prästgårdshöjden i Alunda till tre aktörer som vill utveckla området med nya bostäder.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Byggstart för gångbryggorna i Öregrunds hamn]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/byggstart-for-gangbryggorna-i-oregrunds-hamn/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/byggstart-for-gangbryggorna-i-oregrunds-hamn/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Projektet närmar sig nu sin officiella byggstart. Måndag den 12 oktober börjar företaget Sjötek som har fått uppdraget att renovera bryggorna, arbetet med att stänga av området för allmänheten.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fritidskortet – stöd till barns och ungas fritidsaktiviteter]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/fritidskortet--stod-till-barns-och-ungas-fritidsaktiviteter/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/fritidskortet--stod-till-barns-och-ungas-fritidsaktiviteter/</guid>
-            <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Fritidskortet är ett digitalt ekonomiskt stöd som kan användas för att betala avgifter för barns och ungas fritidsaktiviteter. Det kan till exempel handla om idrott, kultur eller friluftsliv. Syftet är att göra det möjligt för fler barn och unga att delta i aktiviteter.]]></description>
         </item>
     </channel>
 </rss>

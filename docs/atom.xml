@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-10-12T12:00:00.000Z</updated>
+    <updated>2026-10-14T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,20 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Se upp för telefonbedrägerier mot äldre]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/se-upp-for-telefonbedragerier-mot-aldre/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/se-upp-for-telefonbedragerier-mot-aldre/"/>
+        <updated>2026-10-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[En ny våg av telefonbedrägerier riktade mot äldre pågår i flera svenska län, bland annat i Uppsala län. Nu vill vi varna för den här typen av bedrägerier och uppmana er alla att prata om detta med en mamma, en farfar, en granne eller kompis. Tillsammans kan vi stå emot bedragarna.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ny avfallslagstiftning för detaljhandel och verksamheter]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/ny-avfallslagstiftning-for-detaljhandel-och-verksamheter/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/ny-avfallslagstiftning-for-detaljhandel-och-verksamheter/"/>
+        <updated>2026-10-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sedan 1 juli 2026 gäller ny avfallslagstiftning som innebär att Östhammars kommuns ansvar för att hämta vissa typer av avfall från detaljhandel och verksamheter upphör.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svara på vår enkät om att rösta i årets val]]></title>
         <id>https://www.osthammar.se/nyheter/2026/svara-pa-var-enkat-om-att-rosta-i-arets-val/</id>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/fyra-kvarter-pa-prastgardshojden-kan-fa-nya-bostader/"/>
         <updated>2026-09-30T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Nu säljs fyra kvarter med byggrätter på Prästgårdshöjden i Alunda till tre aktörer som vill utveckla området med nya bostäder.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byggstart för gångbryggorna i Öregrunds hamn]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/byggstart-for-gangbryggorna-i-oregrunds-hamn/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/byggstart-for-gangbryggorna-i-oregrunds-hamn/"/>
-        <updated>2026-09-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Projektet närmar sig nu sin officiella byggstart. Måndag den 12 oktober börjar företaget Sjötek som har fått uppdraget att renovera bryggorna, arbetet med att stänga av området för allmänheten.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fritidskortet – stöd till barns och ungas fritidsaktiviteter]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/fritidskortet--stod-till-barns-och-ungas-fritidsaktiviteter/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/fritidskortet--stod-till-barns-och-ungas-fritidsaktiviteter/"/>
-        <updated>2026-09-30T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fritidskortet är ett digitalt ekonomiskt stöd som kan användas för att betala avgifter för barns och ungas fritidsaktiviteter. Det kan till exempel handla om idrott, kultur eller friluftsliv. Syftet är att göra det möjligt för fler barn och unga att delta i aktiviteter.]]></summary>
     </entry>
 </feed>
