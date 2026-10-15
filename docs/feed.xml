@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 14 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Slutförvarsorganisationen bjuder in till 30-årskalas]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/slutforvarsorganisationen-bjuder-in-till-30-arskalas/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/slutforvarsorganisationen-bjuder-in-till-30-arskalas/</guid>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Välkommen på kalas! Östhammars kommuns slutförvarsorganisation fyller 30 år och vi vill därför bjuda in allmänheten till en kväll för att uppmärksamma detta.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vi bjuder in till en träff om ungdomars hälsa]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/vi-bjuder-in-till-en-traff-om-ungdomars-halsa/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/vi-bjuder-in-till-en-traff-om-ungdomars-halsa/</guid>
+            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vill du veta mer om hur ungdomar i kommunen mår? Kom till biblioteket i Alunda den 4 november, kl 18:00-19:30, där vi presenterar resultatet av den nya enkäten Liv och hälsa ung och välkomnar dialog om vad ni som vårdnadshavare tycker är positivt eller utmanande för era ungdomar!]]></description>
+        </item>
         <item>
             <title><![CDATA[Delar av parkeringen vid Pålkällan stängs av tillfälligt]]></title>
             <link>https://www.osthammar.se/nyheter/2026/delar-av-parkeringen-vid-palkallan-stangs-av-tillfalligt/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/oljelackage-fran-grundstott-farja-i-ovning-birgit/</guid>
             <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[På tisdag i nästa vecka kommer vi att ha en oljeskyddsövning tillsammans med flera andra aktörer. En av Färjerederiets färjor grundstöter, tar in vatten och släpper ut olja - ett allvarligt scenario som kräver ett omedelbart, samordnat och omfattande räddningspådrag.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Försvarsmakten möter elever på Bruksgymnasiet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/forsvarsmakten-moter-elever-pa-bruksgymnasiet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/forsvarsmakten-moter-elever-pa-bruksgymnasiet/</guid>
-            <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Samtliga elever i årskurs 1 på Bruksgymnasiet fick tillfälle att möta Försvarsmakten i samband med årets beredskapsvecka. Att de är en del av Sveriges totalförsvar var kanske något av en överraskning för en del av dem, men intresset för att göra värnplikt är stort.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hjälp till att sprida budskapet ”Tänk säkert”]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/hjalp-till-att-sprida-budskapet-tank-sakert/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/hjalp-till-att-sprida-budskapet-tank-sakert/</guid>
-            <pubDate>Thu, 01 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Cybersäkerhetsmånaden infaller varje år i oktober. Det är en månad då vi alla kan hjälpas åt att sprida kunskap om hur vi kan bli säkrare på nätet. Enkla, konkreta råd för att stärka den allmänna kunskapen och medvetenheten om digital säkerhet kan göra stor skillnad. Målet är att fler ska känna sig trygga och använda digitala tjänster på ett säkert sätt.]]></description>
         </item>
     </channel>
 </rss>

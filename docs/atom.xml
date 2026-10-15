@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-10-14T12:00:00.000Z</updated>
+    <updated>2026-10-15T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,20 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Slutförvarsorganisationen bjuder in till 30-årskalas]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/slutforvarsorganisationen-bjuder-in-till-30-arskalas/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/slutforvarsorganisationen-bjuder-in-till-30-arskalas/"/>
+        <updated>2026-10-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Välkommen på kalas! Östhammars kommuns slutförvarsorganisation fyller 30 år och vi vill därför bjuda in allmänheten till en kväll för att uppmärksamma detta.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vi bjuder in till en träff om ungdomars hälsa]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/vi-bjuder-in-till-en-traff-om-ungdomars-halsa/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/vi-bjuder-in-till-en-traff-om-ungdomars-halsa/"/>
+        <updated>2026-10-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vill du veta mer om hur ungdomar i kommunen mår? Kom till biblioteket i Alunda den 4 november, kl 18:00-19:30, där vi presenterar resultatet av den nya enkäten Liv och hälsa ung och välkomnar dialog om vad ni som vårdnadshavare tycker är positivt eller utmanande för era ungdomar!]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Delar av parkeringen vid Pålkällan stängs av tillfälligt]]></title>
         <id>https://www.osthammar.se/nyheter/2026/delar-av-parkeringen-vid-palkallan-stangs-av-tillfalligt/</id>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/oljelackage-fran-grundstott-farja-i-ovning-birgit/"/>
         <updated>2026-10-08T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[På tisdag i nästa vecka kommer vi att ha en oljeskyddsövning tillsammans med flera andra aktörer. En av Färjerederiets färjor grundstöter, tar in vatten och släpper ut olja - ett allvarligt scenario som kräver ett omedelbart, samordnat och omfattande räddningspådrag.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Försvarsmakten möter elever på Bruksgymnasiet]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/forsvarsmakten-moter-elever-pa-bruksgymnasiet/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/forsvarsmakten-moter-elever-pa-bruksgymnasiet/"/>
-        <updated>2026-10-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Samtliga elever i årskurs 1 på Bruksgymnasiet fick tillfälle att möta Försvarsmakten i samband med årets beredskapsvecka. Att de är en del av Sveriges totalförsvar var kanske något av en överraskning för en del av dem, men intresset för att göra värnplikt är stort.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hjälp till att sprida budskapet ”Tänk säkert”]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/hjalp-till-att-sprida-budskapet-tank-sakert/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/hjalp-till-att-sprida-budskapet-tank-sakert/"/>
-        <updated>2026-10-01T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersäkerhetsmånaden infaller varje år i oktober. Det är en månad då vi alla kan hjälpas åt att sprida kunskap om hur vi kan bli säkrare på nätet. Enkla, konkreta råd för att stärka den allmänna kunskapen och medvetenheten om digital säkerhet kan göra stor skillnad. Målet är att fler ska känna sig trygga och använda digitala tjänster på ett säkert sätt.]]></summary>
     </entry>
 </feed>
