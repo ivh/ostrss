@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 15 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tidigare majoritetsledning fortsätter styra Östhammars kommun]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/tidigare-majoritetsledning-fortsatter-styra-osthammars-kommun/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/tidigare-majoritetsledning-fortsatter-styra-osthammars-kommun/</guid>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Moderaterna, Sverigedemokraterna, Kristdemokraterna och Lokalpartiet BOA har kommit överens om att fortsätta styra Östhammars kommun under den kommande mandatperioden. Efter några veckors förhandlingar kunde partierna idag presentera sitt fortsatta samarbete.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Lyckad oljeskyddsövning i Öregrundsgrepen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/lyckad-oljeskyddsovning-i-oregrundsgrepen2/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/lyckad-oljeskyddsovning-i-oregrundsgrepen2/</guid>
+            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Den här veckan har vi genomfört en samverkansövning i Öregrundsgrepen, vad gäller sjöräddning och miljöräddning. Övningsscenariot var en grundstötning med vatteninträngning och oljeutsläpp, vilket krävde omfattande insatser av medverkande aktörer.]]></description>
+        </item>
         <item>
             <title><![CDATA[Slutförvarsorganisationen bjuder in till 30-årskalas]]></title>
             <link>https://www.osthammar.se/nyheter/2026/slutforvarsorganisationen-bjuder-in-till-30-arskalas/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/unga-vill-ha-vuxnas-hjalp-att-sta-emot-nikotin/</guid>
             <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Användningen av vitt snus och vejp ökar bland barn och unga i Uppsala län. Samtidigt efterfrågar unga mer kunskap om riskerna och mer stöd från vuxna för att stå emot nikotin. Det visar en ny rapport från den länsövergripande arbetsgruppen för nikotin- och tobaksprevention.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skolan satsar på mer naturvetenskap, teknik och matematik]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/skolan-satsar-pa-mer-naturvetenskap-teknik-och-matematik/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/skolan-satsar-pa-mer-naturvetenskap-teknik-och-matematik/</guid>
-            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Förskolebarn och elever i årskurs 3 är först ut att få ta del av en ny satsning som vi gör på NTA (Naturvetenskap och Teknik för Alla). Nyligen fick barn- och utbildningsnämndens ledamöter en presentation av materialet som köpts in och tillfälle att praktiskt testa det.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Oljeläckage från grundstött färja i Övning Birgit]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/oljelackage-fran-grundstott-farja-i-ovning-birgit/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/oljelackage-fran-grundstott-farja-i-ovning-birgit/</guid>
-            <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[På tisdag i nästa vecka kommer vi att ha en oljeskyddsövning tillsammans med flera andra aktörer. En av Färjerederiets färjor grundstöter, tar in vatten och släpper ut olja - ett allvarligt scenario som kräver ett omedelbart, samordnat och omfattande räddningspådrag.]]></description>
         </item>
     </channel>
 </rss>
