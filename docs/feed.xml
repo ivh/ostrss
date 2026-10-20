@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Fri, 16 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Renoveringen av inre hamnbryggan i Öregrund har startat]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/renoveringen-av-inre-hamnbryggan-i-oregrund-har-startat/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/renoveringen-av-inre-hamnbryggan-i-oregrund-har-startat/</guid>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Renoveringen av inre hamnbryggan i Öregrund har startat. Bryggan mellan Brobänken och Hamnplan ska rustas upp med ny träöverdäckning och nya fundament för att bli bredare och mer tillgänglighetsanpassad.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Årets sista chans att söka medel från Ortslyftet]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/arets-sista-chans-att-soka-medel-fran-ortslyftet/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/arets-sista-chans-att-soka-medel-fran-ortslyftet/</guid>
+            <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Det finns medel kvar att fördela från Ortslyftet, som syftar till att främja engagemang och konkreta insatser för att utveckla kommunens orter. Men tiden att söka är knapp. Sista dag att skicka in ansökan är den 28 oktober 2026.]]></description>
+        </item>
         <item>
             <title><![CDATA[Tidigare majoritetsledning fortsätter styra Östhammars kommun]]></title>
             <link>https://www.osthammar.se/nyheter/2026/tidigare-majoritetsledning-fortsatter-styra-osthammars-kommun/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/svara-pa-var-enkat-om-att-rosta-i-arets-val/</guid>
             <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Har du röstat i årets val? Hjälp oss genom att svara på en kort enkät om hur du upplevde att rösta. Dina svar är värdefulla och hjälper oss i vårt fortsatta arbete. Enkäten är öppen till och med den 15/11.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dricksvattnet är på väg att ta slut]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/dricksvattnet-ar-pa-vag-att-ta-slut/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/dricksvattnet-ar-pa-vag-att-ta-slut/</guid>
-            <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Grundvattennivåerna är just nu kritiskt låga på flera orter i kommunen. Om nivåerna fortsätter att sjunka kommer det att bli svårt att upprätthålla ordinarie vattenförsörjning.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Unga vill ha vuxnas hjälp att stå emot nikotin]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/unga-vill-ha-vuxnas-hjalp-att-sta-emot-nikotin/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/unga-vill-ha-vuxnas-hjalp-att-sta-emot-nikotin/</guid>
-            <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Användningen av vitt snus och vejp ökar bland barn och unga i Uppsala län. Samtidigt efterfrågar unga mer kunskap om riskerna och mer stöd från vuxna för att stå emot nikotin. Det visar en ny rapport från den länsövergripande arbetsgruppen för nikotin- och tobaksprevention.]]></description>
         </item>
     </channel>
 </rss>
