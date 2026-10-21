@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-10-20T12:00:00.000Z</updated>
+    <updated>2026-10-21T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,20 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Källörhuset tar nästa steg – fortsatt renovering och en mötesplats för unga]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/kallorhuset-tar-nasta-steg--fortsatt-renovering-och-en-motesplats-for-unga2/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/kallorhuset-tar-nasta-steg--fortsatt-renovering-och-en-motesplats-for-unga2/"/>
+        <updated>2026-10-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[En av Östhammars kommuns fastigheter har tagit ett stort steg framåt genom färdigställandet av det norra tornet på Källörhuset i Östhammar. Renoveringen av Källörhuset har pågått sedan 2014, och under åren har många evenemang och aktiviteter arrangerats där. Men resan är inte färdig än, berättar Siv Landström, sekreterare i styrelsen som har varit med från början.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kommunen flaggar på halv stång]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/kommunen-flaggar-pa-halv-stang/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/kommunen-flaggar-pa-halv-stang/"/>
+        <updated>2026-10-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Idag flaggar vi på halv stång för att hedra en av våra förtroendevalda som gått bort.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Renoveringen av inre hamnbryggan i Öregrund har startat]]></title>
         <id>https://www.osthammar.se/nyheter/2026/renoveringen-av-inre-hamnbryggan-i-oregrund-har-startat/</id>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/se-upp-for-telefonbedragerier-mot-aldre/"/>
         <updated>2026-10-14T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[En ny våg av telefonbedrägerier riktade mot äldre pågår i flera svenska län, bland annat i Uppsala län. Nu vill vi varna för den här typen av bedrägerier och uppmana er alla att prata om detta med en mamma, en farfar, en granne eller kompis. Tillsammans kan vi stå emot bedragarna.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ny avfallslagstiftning för detaljhandel och verksamheter]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/ny-avfallslagstiftning-for-detaljhandel-och-verksamheter/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/ny-avfallslagstiftning-for-detaljhandel-och-verksamheter/"/>
-        <updated>2026-10-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sedan 1 juli 2026 gäller ny avfallslagstiftning som innebär att Östhammars kommuns ansvar för att hämta vissa typer av avfall från detaljhandel och verksamheter upphör.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svara på vår enkät om att rösta i årets val]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/svara-pa-var-enkat-om-att-rosta-i-arets-val/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/svara-pa-var-enkat-om-att-rosta-i-arets-val/"/>
-        <updated>2026-10-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Har du röstat i årets val? Hjälp oss genom att svara på en kort enkät om hur du upplevde att rösta. Dina svar är värdefulla och hjälper oss i vårt fortsatta arbete. Enkäten är öppen till och med den 15/11.]]></summary>
     </entry>
 </feed>
