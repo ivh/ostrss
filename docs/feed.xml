@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Upprustning och utbyggnad av elnätet i Östhammars kommun]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/upprustning-och-utbyggnad-av-elnatet-i-osthammars-kommun/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/upprustning-och-utbyggnad-av-elnatet-i-osthammars-kommun/</guid>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vattenfall Eldistribution genomför just nu flera omfattande investeringar i elnätet i och omkring Östhammars kommun. Satsningarna är en del av ett långsiktigt arbete med att modernisera och förstärka elnätet i norra Roslagen och skapa bättre förutsättningar för en trygg och säker elförsörjning.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Källörhuset tar nästa steg – fortsatt renovering och en mötesplats för unga]]></title>
             <link>https://www.osthammar.se/nyheter/2026/kallorhuset-tar-nasta-steg--fortsatt-renovering-och-en-motesplats-for-unga2/</link>
             <guid>https://www.osthammar.se/nyheter/2026/kallorhuset-tar-nasta-steg--fortsatt-renovering-och-en-motesplats-for-unga2/</guid>
@@ -29,7 +36,7 @@
             <link>https://www.osthammar.se/nyheter/2026/renoveringen-av-inre-hamnbryggan-i-oregrund-har-startat/</link>
             <guid>https://www.osthammar.se/nyheter/2026/renoveringen-av-inre-hamnbryggan-i-oregrund-har-startat/</guid>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Renoveringen av inre hamnbryggan i Öregrund har startat. Bryggan mellan Brobänken och Hamnplan ska rustas upp med ny träöverdäckning och nya fundament för att bli bredare och mer tillgänglighetsanpassad.]]></description>
+            <description><![CDATA[Bryggan mellan Brobänken och Hamnplan ska rustas upp med ny träöverdäckning och nya fundament för att bli bredare och mer tillgänglighetsanpassad.]]></description>
         </item>
         <item>
             <title><![CDATA[Årets sista chans att söka medel från Ortslyftet]]></title>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/delar-av-parkeringen-vid-palkallan-stangs-av-tillfalligt/</guid>
             <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Under onsdagen den 14 oktober påbörjas etapp 2 av arbetet vid Pålkällan i Östhammar.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Se upp för telefonbedrägerier mot äldre]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/se-upp-for-telefonbedragerier-mot-aldre/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/se-upp-for-telefonbedragerier-mot-aldre/</guid>
-            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[En ny våg av telefonbedrägerier riktade mot äldre pågår i flera svenska län, bland annat i Uppsala län. Nu vill vi varna för den här typen av bedrägerier och uppmana er alla att prata om detta med en mamma, en farfar, en granne eller kompis. Tillsammans kan vi stå emot bedragarna.]]></description>
         </item>
     </channel>
 </rss>
