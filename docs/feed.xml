@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Kom ihåg att boka julens färdtjänstresor med god framförhållning]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/kom-ihag-att-boka-julens-fardtjanstresor-med-god-framforhallning/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/kom-ihag-att-boka-julens-fardtjanstresor-med-god-framforhallning/</guid>
+            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Har du färdtjänsttillstånd och planerar att resa under jul- och nyårshelgerna? Tänk på att många vill resa samtidigt och att du behöver boka din resa med god framförhållning.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Upprustning och utbyggnad av elnätet i Östhammars kommun]]></title>
             <link>https://www.osthammar.se/nyheter/2026/upprustning-och-utbyggnad-av-elnatet-i-osthammars-kommun/</link>
             <guid>https://www.osthammar.se/nyheter/2026/upprustning-och-utbyggnad-av-elnatet-i-osthammars-kommun/</guid>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/vi-bjuder-in-till-en-traff-om-ungdomars-halsa/</guid>
             <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Vill du veta mer om hur ungdomar i kommunen mår? Kom till biblioteket i Alunda den 4 november, kl 18:00-19:30, där vi presenterar resultatet av den nya enkäten Liv och hälsa ung och välkomnar dialog om vad ni som vårdnadshavare tycker är positivt eller utmanande för era ungdomar!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Delar av parkeringen vid Pålkällan stängs av tillfälligt]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/delar-av-parkeringen-vid-palkallan-stangs-av-tillfalligt/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/delar-av-parkeringen-vid-palkallan-stangs-av-tillfalligt/</guid>
-            <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Under onsdagen den 14 oktober påbörjas etapp 2 av arbetet vid Pålkällan i Östhammar.]]></description>
         </item>
     </channel>
 </rss>
