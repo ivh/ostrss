@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 21 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Vattenkioskerna stängda på grund av vattenbrist]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/vattenkioskerna-stangda-pa-grund-av-vattenbrist/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/vattenkioskerna-stangda-pa-grund-av-vattenbrist/</guid>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Det är just nu kritiskt låga grundvattennivåer i Östhammars kommun. Gästrike Vatten meddelar att de nu har stängt vattenkioskerna i kommunen.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[80 år med skolmat – och Climate Week]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/80-ar-med-skolmat--och-climate-week/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/80-ar-med-skolmat--och-climate-week/</guid>
+            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[För 80 år sedan beslutade riksdagen att skolmaten skulle vara gratis. Under vecka 43 uppmärksammar vi jubileet i vår kommun och deltar samtidigt i det nationella initiativet Climate Week.]]></description>
+        </item>
         <item>
             <title><![CDATA[Kom ihåg att boka julens färdtjänstresor med god framförhållning]]></title>
             <link>https://www.osthammar.se/nyheter/2026/kom-ihag-att-boka-julens-fardtjanstresor-med-god-framforhallning/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/lyckad-oljeskyddsovning-i-oregrundsgrepen2/</guid>
             <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Den här veckan har vi genomfört en samverkansövning i Öregrundsgrepen, vad gäller sjöräddning och miljöräddning. Övningsscenariot var en grundstötning med vatteninträngning och oljeutsläpp, vilket krävde omfattande insatser av medverkande aktörer.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Slutförvarsorganisationen bjuder in till 30-årskalas]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/slutforvarsorganisationen-bjuder-in-till-30-arskalas/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/slutforvarsorganisationen-bjuder-in-till-30-arskalas/</guid>
-            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Välkommen på kalas! Östhammars kommuns slutförvarsorganisation fyller 30 år och vi vill därför bjuda in allmänheten till en kväll för att uppmärksamma detta.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vi bjuder in till en träff om ungdomars hälsa]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/vi-bjuder-in-till-en-traff-om-ungdomars-halsa/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/vi-bjuder-in-till-en-traff-om-ungdomars-halsa/</guid>
-            <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Vill du veta mer om hur ungdomar i kommunen mår? Kom till biblioteket i Alunda den 4 november, kl 18:00-19:30, där vi presenterar resultatet av den nya enkäten Liv och hälsa ung och välkomnar dialog om vad ni som vårdnadshavare tycker är positivt eller utmanande för era ungdomar!]]></description>
         </item>
     </channel>
 </rss>
