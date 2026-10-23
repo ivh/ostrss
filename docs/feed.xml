@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Eldsjälar och föreningar prisades när Kulturveckan invigdes i Östhammar]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/</guid>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Med festlig stämning, glitter och prisutdelningar invigdes Östhammars kulturvecka på kvällen den 23 oktober. Under invigningen uppmärksammades personer och föreningar som gjort särskilda insatser i kommunen.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Inspirationsdag för vattenåtgärder på gårdsnivå]]></title>
             <link>https://www.osthammar.se/nyheter/2026/inspirationsdag-for-vattenatgarder-pa-gardsniva/</link>
             <guid>https://www.osthammar.se/nyheter/2026/inspirationsdag-for-vattenatgarder-pa-gardsniva/</guid>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/arets-sista-chans-att-soka-medel-fran-ortslyftet/</guid>
             <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Det finns medel kvar att fördela från Ortslyftet, som syftar till att främja engagemang och konkreta insatser för att utveckla kommunens orter. Men tiden att söka är knapp. Sista dag att skicka in ansökan är den 28 oktober 2026.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tidigare majoritetsledning fortsätter styra Östhammars kommun]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/tidigare-majoritetsledning-fortsatter-styra-osthammars-kommun/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/tidigare-majoritetsledning-fortsatter-styra-osthammars-kommun/</guid>
-            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Moderaterna, Sverigedemokraterna, Kristdemokraterna och Lokalpartiet BOA har kommit överens om att fortsätta styra Östhammars kommun under den kommande mandatperioden. Efter några veckors förhandlingar kunde partierna idag presentera sitt fortsatta samarbete.]]></description>
         </item>
     </channel>
 </rss>
