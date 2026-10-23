@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 22 Oct 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inspirationsdag för vattenåtgärder på gårdsnivå]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/inspirationsdag-for-vattenatgarder-pa-gardsniva/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/inspirationsdag-for-vattenatgarder-pa-gardsniva/</guid>
+            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Nu bjuder vi in dig som är aktiv inom hästnäringen eller lantbruket till ett gårdsbesök på Bärby gård. Tillsammans med Hushållningssällskapet pratar vi om berörda områden och åtgärder som kan förbättra både gårdsmiljöer och vattenmiljöer. Anmäl dig senast den 29 oktober!]]></description>
+        </item>
         <item>
             <title><![CDATA[Vattenkioskerna stängda på grund av vattenbrist]]></title>
             <link>https://www.osthammar.se/nyheter/2026/vattenkioskerna-stangda-pa-grund-av-vattenbrist/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/tidigare-majoritetsledning-fortsatter-styra-osthammars-kommun/</guid>
             <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Moderaterna, Sverigedemokraterna, Kristdemokraterna och Lokalpartiet BOA har kommit överens om att fortsätta styra Östhammars kommun under den kommande mandatperioden. Efter några veckors förhandlingar kunde partierna idag presentera sitt fortsatta samarbete.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lyckad oljeskyddsövning i Öregrundsgrepen]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/lyckad-oljeskyddsovning-i-oregrundsgrepen2/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/lyckad-oljeskyddsovning-i-oregrundsgrepen2/</guid>
-            <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Den här veckan har vi genomfört en samverkansövning i Öregrundsgrepen, vad gäller sjöräddning och miljöräddning. Övningsscenariot var en grundstötning med vatteninträngning och oljeutsläpp, vilket krävde omfattande insatser av medverkande aktörer.]]></description>
         </item>
     </channel>
 </rss>
