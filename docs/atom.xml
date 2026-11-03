@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-10-23T12:00:00.000Z</updated>
+    <updated>2026-11-03T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,27 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[”En simhall för livet och framtiden” – målbilden för kommunens förstudie]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden--malbilden-for-kommunens-forstudie/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden--malbilden-for-kommunens-forstudie/"/>
+        <updated>2026-11-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trots att löpande renoveringar har gjorts närmar sig våra simhallar slutet av sin tekniska livslängd. För att säkra invånarnas och föreningslivets tillgång till simhall på lång sikt och för att undvika plötsliga stängningar i framtiden genomför kommunen just nu en förstudie. Målbilden för uppdraget är ”En simhall för livet och framtiden”.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Föreläsning förebygger internetrelaterade sexuella övergrepp mot barn]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/forelasning-forebygger-internetrelaterade-sexuella-overgrepp-mot-barn/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/forelasning-forebygger-internetrelaterade-sexuella-overgrepp-mot-barn/"/>
+        <updated>2026-11-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ta chansen att skaffa dig verktygen du behöver för att kunna förhindra att barn råkar ut för internetrelaterade sexuella övergrepp. Den webbsända föreläsningen Unga, internet och övergrepp visar betydelsen av att ha öppna, trygga och förebyggande samtal med unga, för att öka deras förståelse för risker på nätet.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destinationsdagen 2026]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/destinationsdagen-2026/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/destinationsdagen-2026/"/>
+        <updated>2026-11-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Den 19 november samlas företagare och andra aktörer inom besöksnäringen till Roslagens gemensamma Destinationsdag på Norrtälje Bränneri. Årets tema är paketering och samverkan – hur vi tillsammans kan skapa fler bokningsbara upplevelser och stärka Roslagen som besöksdestination.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eldsjälar och föreningar prisades när Kulturveckan invigdes i Östhammar]]></title>
         <id>https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/</id>
@@ -60,26 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/kallorhuset-tar-nasta-steg--fortsatt-renovering-och-en-motesplats-for-unga2/"/>
         <updated>2026-10-21T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[En av Östhammars kommuns fastigheter har tagit ett stort steg framåt genom färdigställandet av det norra tornet på Källörhuset i Östhammar. Renoveringen av Källörhuset har pågått sedan 2014, och under åren har många evenemang och aktiviteter arrangerats där. Men resan är inte färdig än, berättar Siv Landström, sekreterare i styrelsen som har varit med från början.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kommunen flaggar på halv stång]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/kommunen-flaggar-pa-halv-stang/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/kommunen-flaggar-pa-halv-stang/"/>
-        <updated>2026-10-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Idag flaggar vi på halv stång för att hedra en av våra förtroendevalda som gått bort.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renoveringen av inre hamnbryggan i Öregrund har startat]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/renoveringen-av-inre-hamnbryggan-i-oregrund-har-startat/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/renoveringen-av-inre-hamnbryggan-i-oregrund-har-startat/"/>
-        <updated>2026-10-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bryggan mellan Brobänken och Hamnplan ska rustas upp med ny träöverdäckning och nya fundament för att bli bredare och mer tillgänglighetsanpassad.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Årets sista chans att söka medel från Ortslyftet]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/arets-sista-chans-att-soka-medel-fran-ortslyftet/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/arets-sista-chans-att-soka-medel-fran-ortslyftet/"/>
-        <updated>2026-10-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Det finns medel kvar att fördela från Ortslyftet, som syftar till att främja engagemang och konkreta insatser för att utveckla kommunens orter. Men tiden att söka är knapp. Sista dag att skicka in ansökan är den 28 oktober 2026.]]></summary>
     </entry>
 </feed>
