@@ -13,11 +13,18 @@
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
     <entry>
-        <title type="html"><![CDATA[”En simhall för livet och framtiden” – målbilden för kommunens förstudie]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden--malbilden-for-kommunens-forstudie/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden--malbilden-for-kommunens-forstudie/"/>
+        <title type="html"><![CDATA["En simhall för livet och framtiden" - målbilden för kommunens förstudie]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden---malbilden-for-kommunens-forstudie/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden---malbilden-for-kommunens-forstudie/"/>
         <updated>2026-11-03T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Trots att löpande renoveringar har gjorts närmar sig våra simhallar slutet av sin tekniska livslängd. För att säkra invånarnas och föreningslivets tillgång till simhall på lång sikt och för att undvika plötsliga stängningar i framtiden genomför kommunen just nu en förstudie. Målbilden för uppdraget är ”En simhall för livet och framtiden”.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vi skaffar oss kunskap om oljeskadeskydd]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/vi-skaffar-oss-kunskap-om-oljeskadeskydd/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/vi-skaffar-oss-kunskap-om-oljeskadeskydd/"/>
+        <updated>2026-11-03T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Erfarenheter från stora oljeolyckor visar på nödvändigheten av att ha en robust kommunal beredskap för att hantera oljeförorening till havs. Därför har vi, utöver att ha tagit fram en riktlinje för oljeskydd, också satsat på samverkansövningar och utbildning av vår personal.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Föreläsning förebygger internetrelaterade sexuella övergrepp mot barn]]></title>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/upprustning-och-utbyggnad-av-elnatet-i-osthammars-kommun/"/>
         <updated>2026-10-21T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Vattenfall Eldistribution genomför just nu flera omfattande investeringar i elnätet i och omkring Östhammars kommun. Satsningarna är en del av ett långsiktigt arbete med att modernisera och förstärka elnätet i norra Roslagen och skapa bättre förutsättningar för en trygg och säker elförsörjning.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Källörhuset tar nästa steg – fortsatt renovering och en mötesplats för unga]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/kallorhuset-tar-nasta-steg--fortsatt-renovering-och-en-motesplats-for-unga2/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/kallorhuset-tar-nasta-steg--fortsatt-renovering-och-en-motesplats-for-unga2/"/>
-        <updated>2026-10-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[En av Östhammars kommuns fastigheter har tagit ett stort steg framåt genom färdigställandet av det norra tornet på Källörhuset i Östhammar. Renoveringen av Källörhuset har pågått sedan 2014, och under åren har många evenemang och aktiviteter arrangerats där. Men resan är inte färdig än, berättar Siv Landström, sekreterare i styrelsen som har varit med från början.]]></summary>
     </entry>
 </feed>
