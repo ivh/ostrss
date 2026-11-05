@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 03 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ekens förskola öppnar 2027]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/ekens-forskola-oppnar-2027/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/ekens-forskola-oppnar-2027/</guid>
+            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Det pågår en omfattande ytrenovering av Ekens förskola, arbetet planeras vara klart till årsskiftet. Efter genomförd renovering planeras förskoleverksamheten i Österbybruk att samlas i två enheter - Ekens och Mineralens förskolor.]]></description>
+        </item>
         <item>
             <title><![CDATA["En simhall för livet och framtiden" - målbilden för kommunens förstudie]]></title>
             <link>https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden---malbilden-for-kommunens-forstudie/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/kom-ihag-att-boka-fard--och-riksfardstjanstresor-med-god-framforhallning/</guid>
             <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Har du färdtjänsttillstånd och planerar att resa under jul- och nyårshelgerna? Tänk på att många vill resa samtidigt och att du behöver boka din resa med god framförhållning.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Upprustning och utbyggnad av elnätet i Östhammars kommun]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/upprustning-och-utbyggnad-av-elnatet-i-osthammars-kommun/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/upprustning-och-utbyggnad-av-elnatet-i-osthammars-kommun/</guid>
-            <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Vattenfall Eldistribution genomför just nu flera omfattande investeringar i elnätet i och omkring Östhammars kommun. Satsningarna är en del av ett långsiktigt arbete med att modernisera och förstärka elnätet i norra Roslagen och skapa bättre förutsättningar för en trygg och säker elförsörjning.]]></description>
         </item>
     </channel>
 </rss>
