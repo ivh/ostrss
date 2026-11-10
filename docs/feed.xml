@@ -11,6 +11,13 @@
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Skapa vänskap i vardagen]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Små stunder som att ta en fika, gå på bio eller träna kan göra stor skillnad i någons livSom kontaktperson är du ett värdefullt stöd för den som upplever social isolering och själv har svårt att ta sig ut på fritidsaktiviteter.]]></description>
+        </item>
+        <item>
             <title><![CDATA[Två bygdegårdar i kommunen får beredskapsbidrag]]></title>
             <link>https://www.osthammar.se/nyheter/2026/tva-bygdegardar-i-kommunen-far-beredskapsbidrag/</link>
             <guid>https://www.osthammar.se/nyheter/2026/tva-bygdegardar-i-kommunen-far-beredskapsbidrag/</guid>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/inspirationsdag-for-vattenatgarder-pa-gardsniva/</guid>
             <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Nu bjuder vi in dig som är aktiv inom hästnäringen eller lantbruket till ett gårdsbesök på Bärby gård. Tillsammans med Hushållningssällskapet pratar vi om berörda områden och åtgärder som kan förbättra både gårdsmiljöer och vattenmiljöer. Anmäl dig senast den 29 oktober!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vattenkioskerna stängda på grund av vattenbrist]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/vattenkioskerna-stangda-pa-grund-av-vattenbrist/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/vattenkioskerna-stangda-pa-grund-av-vattenbrist/</guid>
-            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Det är just nu kritiskt låga grundvattennivåer i Östhammars kommun. Gästrike Vatten meddelar att de nu har stängt vattenkioskerna i kommunen.]]></description>
         </item>
     </channel>
 </rss>
