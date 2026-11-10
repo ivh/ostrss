@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Fri, 06 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Två bygdegårdar i kommunen får beredskapsbidrag]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/tva-bygdegardar-i-kommunen-far-beredskapsbidrag/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/tva-bygdegardar-i-kommunen-far-beredskapsbidrag/</guid>
+            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[56 bygdegårdsföreningar får bidrag för insatser som stärker samhällets krisberedskap, 2 av dem finns i Östhammars kommun. Vi säger grattis till Ekeby bygdegårdsförening och Ramhälls bygdegård och hembygdsförening som får del av Bygdegårdarnas riksförbunds beredskapsbidrag.]]></description>
+        </item>
         <item>
             <title><![CDATA[Fler godkända ansökningar inom Ortslyftet]]></title>
             <link>https://www.osthammar.se/nyheter/2026/fler-godkanda-ansokningar-inom-ortslyftet/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/vattenkioskerna-stangda-pa-grund-av-vattenbrist/</guid>
             <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Det är just nu kritiskt låga grundvattennivåer i Östhammars kommun. Gästrike Vatten meddelar att de nu har stängt vattenkioskerna i kommunen.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[80 år med skolmat – och Climate Week]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/80-ar-med-skolmat--och-climate-week/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/80-ar-med-skolmat--och-climate-week/</guid>
-            <pubDate>Thu, 22 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[För 80 år sedan beslutade riksdagen att skolmaten skulle vara gratis. Under vecka 43 uppmärksammar vi jubileet i vår kommun och deltar samtidigt i det nationella initiativet Climate Week.]]></description>
         </item>
     </channel>
 </rss>
