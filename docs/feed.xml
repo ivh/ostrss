@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 10 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[”Visst kommer vi att snöröja i vinter!”]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/visst-kommer-vi-att-snoroja-i-vinter/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/visst-kommer-vi-att-snoroja-i-vinter/</guid>
+            <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[P4 Uppland har rapporterat att vi har slut på årets pengar till snöröjning. Det har väckt oro och frågor hos kommuninvånare. Men självklart kommer vi att röja snö som vanligt. Det är ett kommunalt ansvar och ett jobb som vi gör oavsett hur den aktuella budgetposten ser ut.]]></description>
+        </item>
         <item>
             <title><![CDATA[Skapa vänskap i vardagen]]></title>
             <link>https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/</guid>
             <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Med festlig stämning, glitter och prisutdelningar invigdes Östhammars kulturvecka på kvällen den 23 oktober. Under invigningen uppmärksammades personer och föreningar som gjort särskilda insatser i kommunen.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Inspirationsdag för vattenåtgärder på gårdsnivå]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/inspirationsdag-for-vattenatgarder-pa-gardsniva/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/inspirationsdag-for-vattenatgarder-pa-gardsniva/</guid>
-            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Nu bjuder vi in dig som är aktiv inom hästnäringen eller lantbruket till ett gårdsbesök på Bärby gård. Tillsammans med Hushållningssällskapet pratar vi om berörda områden och åtgärder som kan förbättra både gårdsmiljöer och vattenmiljöer. Anmäl dig senast den 29 oktober!]]></description>
         </item>
     </channel>
 </rss>
