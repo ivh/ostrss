@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-11-11T12:00:00.000Z</updated>
+    <updated>2026-11-12T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,20 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Välkommen Mika – vår nya finskasamordare]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/valkommen-mika--var-nya-finskasamordare/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/valkommen-mika--var-nya-finskasamordare/"/>
+        <updated>2026-11-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mikas eget intresse för det finska språket har vuxit fram över tid. Nu tar han sig an uppdraget att samordna kommunens arbete inom finskt förvaltningsområde.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utbildning i reservkraft tryggar viktiga samhällsfunktioner]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/utbildning-i-reservkraft-tryggar-viktiga-samhallsfunktioner/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/utbildning-i-reservkraft-tryggar-viktiga-samhallsfunktioner/"/>
+        <updated>2026-11-12T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nu har vi genomfört en gedigen tvådagarsutbildning i reservkraft. Tillsammans med deltagare från Älvkarleby kommun, Uppsala kommun och Uppsala brandförsvar har vi stärkt vår förmåga att säkerställa driften och beredskapen i våra fastigheter. Det är viktig kunskap för att trygga samhällsfunktioner vid ett elbortfall.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[”Visst kommer vi att snöröja i vinter!”]]></title>
         <id>https://www.osthammar.se/nyheter/2026/visst-kommer-vi-att-snoroja-i-vinter/</id>
@@ -67,19 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/forelasning-forebygger-internetrelaterade-sexuella-overgrepp-mot-barn/"/>
         <updated>2026-11-03T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ta chansen att skaffa dig verktygen du behöver för att kunna förhindra att barn råkar ut för internetrelaterade sexuella övergrepp. Den webbsända föreläsningen Unga, internet och övergrepp visar betydelsen av att ha öppna, trygga och förebyggande samtal med unga, för att öka deras förståelse för risker på nätet.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destinationsdagen 2026]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/destinationsdagen-2026/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/destinationsdagen-2026/"/>
-        <updated>2026-11-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Den 19 november samlas företagare och andra aktörer inom besöksnäringen till Roslagens gemensamma Destinationsdag på Norrtälje Bränneri. Årets tema är paketering och samverkan – hur vi tillsammans kan skapa fler bokningsbara upplevelser och stärka Roslagen som besöksdestination.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eldsjälar och föreningar prisades när Kulturveckan invigdes i Östhammar]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/"/>
-        <updated>2026-10-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Med festlig stämning, glitter och prisutdelningar invigdes Östhammars kulturvecka på kvällen den 23 oktober. Under invigningen uppmärksammades personer och föreningar som gjort särskilda insatser i kommunen.]]></summary>
     </entry>
 </feed>

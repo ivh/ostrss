@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 11 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Välkommen Mika – vår nya finskasamordare]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/valkommen-mika--var-nya-finskasamordare/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/valkommen-mika--var-nya-finskasamordare/</guid>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Mikas eget intresse för det finska språket har vuxit fram över tid. Nu tar han sig an uppdraget att samordna kommunens arbete inom finskt förvaltningsområde.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Utbildning i reservkraft tryggar viktiga samhällsfunktioner]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/utbildning-i-reservkraft-tryggar-viktiga-samhallsfunktioner/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/utbildning-i-reservkraft-tryggar-viktiga-samhallsfunktioner/</guid>
+            <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Nu har vi genomfört en gedigen tvådagarsutbildning i reservkraft. Tillsammans med deltagare från Älvkarleby kommun, Uppsala kommun och Uppsala brandförsvar har vi stärkt vår förmåga att säkerställa driften och beredskapen i våra fastigheter. Det är viktig kunskap för att trygga samhällsfunktioner vid ett elbortfall.]]></description>
+        </item>
         <item>
             <title><![CDATA[”Visst kommer vi att snöröja i vinter!”]]></title>
             <link>https://www.osthammar.se/nyheter/2026/visst-kommer-vi-att-snoroja-i-vinter/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/forelasning-forebygger-internetrelaterade-sexuella-overgrepp-mot-barn/</guid>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Ta chansen att skaffa dig verktygen du behöver för att kunna förhindra att barn råkar ut för internetrelaterade sexuella övergrepp. Den webbsända föreläsningen Unga, internet och övergrepp visar betydelsen av att ha öppna, trygga och förebyggande samtal med unga, för att öka deras förståelse för risker på nätet.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Destinationsdagen 2026]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/destinationsdagen-2026/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/destinationsdagen-2026/</guid>
-            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Den 19 november samlas företagare och andra aktörer inom besöksnäringen till Roslagens gemensamma Destinationsdag på Norrtälje Bränneri. Årets tema är paketering och samverkan – hur vi tillsammans kan skapa fler bokningsbara upplevelser och stärka Roslagen som besöksdestination.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Eldsjälar och föreningar prisades när Kulturveckan invigdes i Östhammar]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/eldsjalar-och-foreningar-prisades-nar-kulturveckan-invigdes-i-osthammar/</guid>
-            <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Med festlig stämning, glitter och prisutdelningar invigdes Östhammars kulturvecka på kvällen den 23 oktober. Under invigningen uppmärksammades personer och föreningar som gjort särskilda insatser i kommunen.]]></description>
         </item>
     </channel>
 </rss>
