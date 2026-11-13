@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Thu, 12 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Orange Week - En vecka utan våld]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/orange-week---en-vecka-utan-vald/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/orange-week---en-vecka-utan-vald/</guid>
+            <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Den 16–22 november sker i Uppsala län över 20 aktiviteter under årets upplaga av kampanjen En vecka fri från våld. Vill du veta mer om hur vi jobbar med stöd till den som är drabbad av våld i nära relationer? Kom och träffa oss på tisdag, kl 15-17, utanför Stora COOP i Östhammar.]]></description>
+        </item>
         <item>
             <title><![CDATA[Välkommen Mika – vår nya finskasamordare]]></title>
             <link>https://www.osthammar.se/nyheter/2026/valkommen-mika--var-nya-finskasamordare/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/vi-skaffar-oss-kunskap-om-oljeskadeskydd/</guid>
             <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Erfarenheter från stora oljeolyckor visar på nödvändigheten av att ha en robust kommunal beredskap för att hantera oljeförorening till havs. Därför har vi, utöver att ha tagit fram en riktlinje för oljeskydd, också satsat på samverkansövningar och utbildning av vår personal.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Föreläsning förebygger internetrelaterade sexuella övergrepp mot barn]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/forelasning-forebygger-internetrelaterade-sexuella-overgrepp-mot-barn/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/forelasning-forebygger-internetrelaterade-sexuella-overgrepp-mot-barn/</guid>
-            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Ta chansen att skaffa dig verktygen du behöver för att kunna förhindra att barn råkar ut för internetrelaterade sexuella övergrepp. Den webbsända föreläsningen Unga, internet och övergrepp visar betydelsen av att ha öppna, trygga och förebyggande samtal med unga, för att öka deras förståelse för risker på nätet.]]></description>
         </item>
     </channel>
 </rss>
