@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Mon, 16 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Akut vattenläcka i Östhammar]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/akut-vattenlacka-i-osthammar/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/akut-vattenlacka-i-osthammar/</guid>
+            <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Gästrike vatten meddelar att många hushåll i Östhammar är utan vatten just nu. Arbete pågår för att åtgärda problemet så fort som möjligt. Dricksvatten finns att hämta vid Klockstapelgatan 1.]]></description>
+        </item>
         <item>
             <title><![CDATA[Dags att se över säkerheten]]></title>
             <link>https://www.osthammar.se/nyheter/2026/dags-att-se-over-sakerheten/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/ekens-forskola-oppnar-2027/</guid>
             <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Det pågår en omfattande ytrenovering av Ekens förskola, arbetet planeras vara klart till årsskiftet. Efter genomförd renovering planeras förskoleverksamheten i Österbybruk att samlas i två enheter - Ekens och Mineralens förskolor.]]></description>
-        </item>
-        <item>
-            <title><![CDATA["En simhall för livet och framtiden" - målbilden för kommunens förstudie]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden---malbilden-for-kommunens-forstudie/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/en-simhall-for-livet-och-framtiden---malbilden-for-kommunens-forstudie/</guid>
-            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Trots att löpande renoveringar har gjorts närmar sig våra simhallar slutet av sin tekniska livslängd. För att säkra invånarnas och föreningslivets tillgång till simhall på lång sikt och för att undvika plötsliga stängningar i framtiden genomför kommunen just nu en förstudie. Målbilden för uppdraget är ”En simhall för livet och framtiden”.]]></description>
         </item>
     </channel>
 </rss>
