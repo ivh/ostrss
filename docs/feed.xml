@@ -4,12 +4,26 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Tue, 17 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ung omsorg – möten över generationer]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/ung-omsorg--moten-over-generationer/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/ung-omsorg--moten-over-generationer/</guid>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Vi har tecknat avtal med Ung omsorg, ett företag som anställer ungdomar för att göra det lilla extra för äldre. Det här är en satsning med många vinnare – ungdomar får tjäna pengar, äldre får guldkant på sin vardag och förhoppningsvis kommer åtgärden även att underlätta vårt arbete med kompetensförsörjning.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Att anlägga rätt våtmark på rätt plats]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/att-anlagga-ratt-vatmark-pa-ratt-plats/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/att-anlagga-ratt-vatmark-pa-ratt-plats/</guid>
+            <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Funderar du på att anlägga eller restaurera en våtmark på din mark? Välkommen till ett digitalt seminarium den 20 november där du får lära dig mer om våtmarker och deras betydelse. Observera att sista anmälningsdag är i dag, den 18 november!]]></description>
+        </item>
         <item>
             <title><![CDATA[Vattenavstängning i Östhammar]]></title>
             <link>https://www.osthammar.se/nyheter/2026/vattenavstangning-i-osthammar/</link>
@@ -65,20 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/tva-bygdegardar-i-kommunen-far-beredskapsbidrag/</guid>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[56 bygdegårdsföreningar får bidrag för insatser som stärker samhällets krisberedskap, 2 av dem finns i Östhammars kommun. Vi säger grattis till Ekeby bygdegårdsförening och Ramhälls bygdegård och hembygdsförening som får del av Bygdegårdarnas riksförbunds beredskapsbidrag.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fler godkända ansökningar inom Ortslyftet]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/fler-godkanda-ansokningar-inom-ortslyftet/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/fler-godkanda-ansokningar-inom-ortslyftet/</guid>
-            <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Årets sista ansökningar inom Ortslyftet har nu behandlats av kommunstyrelsens arbetsutskott och flera projekt har beviljats medel.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ekens förskola öppnar 2027]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/ekens-forskola-oppnar-2027/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/ekens-forskola-oppnar-2027/</guid>
-            <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Det pågår en omfattande ytrenovering av Ekens förskola, arbetet planeras vara klart till årsskiftet. Efter genomförd renovering planeras förskoleverksamheten i Österbybruk att samlas i två enheter - Ekens och Mineralens förskolor.]]></description>
         </item>
     </channel>
 </rss>
