@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Wed, 18 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nu har vi tecknat avtal med Pivdennoukrainsk]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/nu-har-vi-tecknat-avtal-med-pivdennoukrainsk/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/nu-har-vi-tecknat-avtal-med-pivdennoukrainsk/</guid>
+            <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Nyligen undertecknades samarbetsavtalet mellan Östhammars kommun och den ukrainska kommunen Pivdennoukrainsk i samband med ett digitalt möte. Det öppnar upp för ett fortsatt och utökat samarbete och erfarenhetsutbyte.]]></description>
+        </item>
         <item>
             <title><![CDATA[Ung omsorg – möten över generationer]]></title>
             <link>https://www.osthammar.se/nyheter/2026/ung-omsorg--moten-over-generationer/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/</guid>
             <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[Små stunder som att ta en fika, gå på bio eller träna kan göra stor skillnad i någons livSom kontaktperson är du ett värdefullt stöd för den som upplever social isolering och själv har svårt att ta sig ut på fritidsaktiviteter.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Två bygdegårdar i kommunen får beredskapsbidrag]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/tva-bygdegardar-i-kommunen-far-beredskapsbidrag/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/tva-bygdegardar-i-kommunen-far-beredskapsbidrag/</guid>
-            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[56 bygdegårdsföreningar får bidrag för insatser som stärker samhällets krisberedskap, 2 av dem finns i Östhammars kommun. Vi säger grattis till Ekeby bygdegårdsförening och Ramhälls bygdegård och hembygdsförening som får del av Bygdegårdarnas riksförbunds beredskapsbidrag.]]></description>
         </item>
     </channel>
 </rss>
