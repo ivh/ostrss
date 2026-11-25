@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.osthammar.se/nyheter/</id>
     <title>Östhammars kommun – Nyheter</title>
-    <updated>2026-11-23T12:00:00.000Z</updated>
+    <updated>2026-11-25T12:00:00.000Z</updated>
     <generator>ostrss (https://github.com/ivh/ostrss)</generator>
     <author>
         <name>ostrss (inofficiellt)</name>
@@ -12,6 +12,13 @@
     <link rel="self" href="https://ivh.github.io/ostrss/atom.xml"/>
     <subtitle>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</subtitle>
     <rights>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</rights>
+    <entry>
+        <title type="html"><![CDATA[Bruksgymnasiet - en av länets högst presterande gymnasieskolor]]></title>
+        <id>https://www.osthammar.se/nyheter/2026/bruksgymnasiet---en-av-lanets-hogst-presterande-gymnasieskolor/</id>
+        <link href="https://www.osthammar.se/nyheter/2026/bruksgymnasiet---en-av-lanets-hogst-presterande-gymnasieskolor/"/>
+        <updated>2026-11-25T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Både elever och medarbetare trivs på Bruksgymnasiet i Gimo, som placerar sig högt på listan över länets 28 gymnasieskolor. En fin och trygg skolmiljö samt bra resultat från de nationella proven bidrar också till det fina resultatet.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nu har vi tecknat avtal med Pivdennoukrainsk]]></title>
         <id>https://www.osthammar.se/nyheter/2026/nu-har-vi-tecknat-avtal-med-pivdennoukrainsk/</id>
@@ -74,12 +81,5 @@
         <link href="https://www.osthammar.se/nyheter/2026/visst-kommer-vi-att-snoroja-i-vinter/"/>
         <updated>2026-11-11T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[P4 Uppland har rapporterat att vi har slut på årets pengar till snöröjning. Det har väckt oro och frågor hos kommuninvånare. Men självklart kommer vi att röja snö som vanligt. Det är ett kommunalt ansvar och ett jobb som vi gör oavsett hur den aktuella budgetposten ser ut.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skapa vänskap i vardagen]]></title>
-        <id>https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/</id>
-        <link href="https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/"/>
-        <updated>2026-11-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Små stunder som att ta en fika, gå på bio eller träna kan göra stor skillnad i någons livSom kontaktperson är du ett värdefullt stöd för den som upplever social isolering och själv har svårt att ta sig ut på fritidsaktiviteter.]]></summary>
     </entry>
 </feed>

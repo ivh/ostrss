@@ -4,12 +4,19 @@
         <title>Östhammars kommun – Nyheter</title>
         <link>https://www.osthammar.se/nyheter/</link>
         <description>Inofficiellt RSS-flöde för nyheter från Östhammars kommun (osthammar.se). Detta flöde är community-genererat och drivs inte av kommunen.</description>
-        <lastBuildDate>Mon, 23 Nov 2026 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 12:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>ostrss (https://github.com/ivh/ostrss)</generator>
         <language>sv</language>
         <copyright>Innehåll © Östhammars kommun. Inofficiellt flöde genererat av ostrss.</copyright>
         <atom:link href="https://ivh.github.io/ostrss/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bruksgymnasiet - en av länets högst presterande gymnasieskolor]]></title>
+            <link>https://www.osthammar.se/nyheter/2026/bruksgymnasiet---en-av-lanets-hogst-presterande-gymnasieskolor/</link>
+            <guid>https://www.osthammar.se/nyheter/2026/bruksgymnasiet---en-av-lanets-hogst-presterande-gymnasieskolor/</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+            <description><![CDATA[Både elever och medarbetare trivs på Bruksgymnasiet i Gimo, som placerar sig högt på listan över länets 28 gymnasieskolor. En fin och trygg skolmiljö samt bra resultat från de nationella proven bidrar också till det fina resultatet.]]></description>
+        </item>
         <item>
             <title><![CDATA[Nu har vi tecknat avtal med Pivdennoukrainsk]]></title>
             <link>https://www.osthammar.se/nyheter/2026/nu-har-vi-tecknat-avtal-med-pivdennoukrainsk/</link>
@@ -72,13 +79,6 @@
             <guid>https://www.osthammar.se/nyheter/2026/visst-kommer-vi-att-snoroja-i-vinter/</guid>
             <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
             <description><![CDATA[P4 Uppland har rapporterat att vi har slut på årets pengar till snöröjning. Det har väckt oro och frågor hos kommuninvånare. Men självklart kommer vi att röja snö som vanligt. Det är ett kommunalt ansvar och ett jobb som vi gör oavsett hur den aktuella budgetposten ser ut.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Skapa vänskap i vardagen]]></title>
-            <link>https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/</link>
-            <guid>https://www.osthammar.se/nyheter/2026/skapa-vanskap-i-vardagen/</guid>
-            <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-            <description><![CDATA[Små stunder som att ta en fika, gå på bio eller träna kan göra stor skillnad i någons livSom kontaktperson är du ett värdefullt stöd för den som upplever social isolering och själv har svårt att ta sig ut på fritidsaktiviteter.]]></description>
         </item>
     </channel>
 </rss>
